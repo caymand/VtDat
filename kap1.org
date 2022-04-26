@@ -1,0 +1,68 @@
+#+TITLE: Kap1
+
++ Epistomologi
++ Tautologisk
+
+* Realvidenskab
++ Real eksisterende virkelig uafhængig af os
++ Fænomener der altid er der om vi studerer dem eller ej
+* Formalvidenskab
++ Log
++ Matematik
++ Symboler og formelle systemer
++ Vi har bestemet hvad de handler om
++ Matematik er noget vi har opfundet
+
+* Evidens
+Lokal emperisk viden
++ Bruges i realvidenskab
+
+* Induktion
+Inddrage konklussion om det genereall ud fra specifikke påstande og tests
+* Deduktion
+Drage konklussion om det specifikke ud fra det generelle.
+Påstande kan bevises
+* Logisk positivisme
++ Det eneste man kan sige er "atomare ting": solen stod op 05:55
++ Det eneste der giver meneing af observationer man har set
++ Bruger induktion til at tilslutte love og teorier.
++ Derefter kan deduktion bruges til forklaring af fænomener, som i morgen står solen opfundet
+** Humes problem
++ Man kan ikke gå fra det partikulære til det almene
+  + Eksempel med svanerne
++ Teoriafhængig - Iagtagelser/ovservationer kan ikke være objektive/teoriafhængig
++ Verifikation - videnskab handler ikke om at fremsætte og verificiere sansyndlige fænomener
++
+
+* Karl popper
++ Videnskabelige teorier kan faciliceres - =Demarkationskriteret=
+  + Den skal ikke være forkert, men det skal være muligt den er forkert
++ Den videnskabelige metode
+  + Fremstil dristige hypoteser
+  + Falcificer
+  + Fremstil bedre hypotese
++ Det er let at få bekræftigelse eller verifikation for næsten enhver teori
++ Bekræftelser bør kun tælle for dristige forudsigelser
++ Handler om at prøve og gendrive teori
++ Jo mere en teori forbyder jo bedre er den
++ En virkelig afprøvning - forsøg på falcificere eller gendrive teori
++ Når en teori modbevises - vi skal ikke tilføje ad-hoc antagelser
+  + Vi burde finde på endnu bedre teori
+
+* Den hypotetisk-deduktive metode
+1. Dristig hypotese
+1. Udled testbare konsekvenser
+1. Test
+1. Hypotese forkastes eller forbedres hvis den falcificeres
+Hvilken hypotese er blevet falcificeret - Duhem Quine-tesen
+Hvis vi ikke kender svaret på eksperimentet, hvordan ved jeg om apperatet fungerer - regres
+* Lakatos videnskabelige forskningsprogrammer
+** Teori består af tre lag
++ Inderst - hård kerne med teori vi ikke lader os afvise
+  + Kunne være newton
+  + Matematik
++ Midten - beskyttende bælte af antagelser
+  + Vi kan accepterer dem eller modbevise når de er i modsætning til den yderste lag
++ Yderst - forudsigelser og empiriske testbare påstande
+  + Progressiv og degeneraiv forskning
+  + Emperiske forudsætninger
