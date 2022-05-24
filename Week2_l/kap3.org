@@ -1,0 +1,16 @@
+#+title: K3
+
++ Socio-teknisk object
++ Agens
++ Kontrolstruktur
++ Mekanisk
++ Matematikfilosofisk
++ Formalisering og aksiomatisering
++ Aksiomssystmer
++ Ideale elementer
++ Konservative udvidelser
++ Finitister
++ Finitisme
++ Mekanisk
++ Hilbert >< Gödel
++ Monoparadimatisk

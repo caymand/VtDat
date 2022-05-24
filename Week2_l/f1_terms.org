@@ -1,0 +1,19 @@
+#+title: F1_terms
+
++ A priori - behøver ikke erfaring. Kan tænker os til
++ Ufuldstændigshedssætning
++ Hilbert
++ Finitistisk kerne
++ Firefarvesætningen
++ Proof programs gør matematik til realvidenskab
+  + Stil forsøg og kør
+  + Kernen er matematisk formalvidenskab (problem løses ved logik og matematik)
+  + Når vi kører run bliver det realvidenskab, fordi alt muligt kan ske
++ Induktionsproblemet
++ Durhem-quiem tesen
++ Experimenters regress
+  + Hvis jeg ikke ved hvad det rigtige svar er, hvordan kan jeg så falcificere
++ Disciplinær matrix
++ Kuhn inkommensurabilitet
++ Kuhn revolution
++ Normalvidenskab

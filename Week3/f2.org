@@ -1,0 +1,13 @@
+#+TITLE: F2
+
+* ACM
++ Første korrigula for hvad man skal læse for at læse datalogi
+
+* Fra algoritme til afvikling
++ Fra teoretisk lukket system i form af algoritme
++ Åbent system når vi implementerer den i verden
+
+* Hvordan kan vi tænke om programmeringssprog
++ Imperative/von-neumann sprog ligner meget von-neumann maskinen
+
+* Hvordan kan vi tænke om softwareudvikling

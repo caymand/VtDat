@@ -1,0 +1,71 @@
+#+title: Algorithms
+
++ A priori
++ Epistemologi
++ Ethnographically
+
+* Intro
++ Algoritmer som multiples
+    + Algoritmer betyder forskellige ting for forskellige mennesker
+    + Afhænger af mennesker og deres arbejdspraksis
++ Nydter ikke at bruge den snævre datalogi definition
++ Nødt til at se hvordan begrebet bruges i hverdagen
+
+* Algorithms in culture
++ Algoritme med data
++ Også kaldet model eller algoritmisk system
++ Stadig algoritme som objekt - afgrænset fra samfund og kultur
++ Algoritme påvirker os
++ Vi påvirker algoritmen
+
+* Algorithms as culture
++ Sammenlignes med kultur eller kultur på arbejdsplads
++ Ikke en speciel ting
++ Se algoritmen som helhed i der hvor den bruges
++ Ikke et objekt men noget der praktiseres
++ Algoritmen er en del af kulturen men kan ikke længere adskilles fra kulturen
+
+* Seavers argumentation
++ Lavet antropologisk undersøgelse
+  + Handler om hvordan folk ude i verden forstår ting
++ Hvis forsker fra Datalogisk baggrund undersøgte begrebet, ville man få andre resulter
++ Man godt få noget ud af de to forskellige undersøgelser
++ Gør det klart han laver speciel undersøgelse
++ Datalog ville mere være interesseret asymptotisk køretid af algoritmen
++ Antropologen ser mere på algoritmens inflydelse på mennesker
+
+* Modspil til Who are we
++ Hvis vi skal have IT projekter til at lykkedes skal dataloger stadig have lov
+  at bestemme hvad der sker inden for et felt
++ Modspil til Seavers der mener alle mennesker definerer algoritmebegrebet
+
+* Secrecy
++ Introduceres i discussion om metoder der involverer begrebet algoritme
++ Algorithmic auditing - black box testing for at se om ML algoritmen har bias
++ Secrecy er en social process af insiders og outsiders
+  + Både programmører der ikke vil fortælle om implementation
+  + Handler også om outsiders der accepterer at teste algoritmen som en black box
+
+* Scavenge
++ Metode til at få information ud af folk
++ Møde folk ude fra virksomhed og arbejde for at få hemmelige ting frem fra folk
++ Behandler mand algoritmer som kultur er secrecy ikke kun hos virksomheden
+  + Hemmeligheden ved algoritmen styres også af offentligheden og deres brug
+
+* Ekstra pointe
++ Ingen til konferencer taler om algoritmer som dataloger kender det
+  + sorteringsalgoritmer
++ Ingen tror rigtig de arbejder med algoritmen eller ved hvad der er
+
+* Entografisk metode
++ bruger realvidenskabelige metoder
+  + observer virkeligheden
++ Forskellige metoder giver forskellige resultater
+
+* Hvordan findes algoritmer
+
+* Teknologisk socialt system
++ Sammen med seavers algoritmikbegreb
++ Nødt til at tænke tilbage til hvordan metaller til computeren er skabt
++ Se algoritmer som del af et teknologisk system
++ Seaver er inde på dette aspekt

@@ -1,0 +1,31 @@
+#+title: Kap1
+* Termer
++ Deskriptiv
++ normativ
++ Dateringer
++ Softwarekenstandsfeltrise
++ Ontologi - objekter
++ erkendelsesmåde/epistemologi
++ Genstandtfelt - deres objekter
++ Realvidenskab
++ Aposteriori viden
++ Induktiv
+  + Partikulært til generelt
++ Formalvidenskab
++ Deduktiv
+  + Generelt til partikulært
++ a priori
++ Inter subjektive
++ Natur og naturprocesser
++ Social systemer
++ Kultur og kulturprodokter
++ Induktiv slutning
++ Logisk positivisme
++ Induktionsproblemet
++ Rgres
++ Hypotetisk deduktiv metode
++ Experimenters regress
++ Duhem quine tesen
++ Demarkrationsproblemet
++ Kvantitativ
++ Kvalitativ

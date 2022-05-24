@@ -1,0 +1,118 @@
+#+title: F1
+
+* Platon
++ Ideernes verden
++ Den virkelige verden?
+  + Den dårlige version af ideernes verden vi kan sanse os til
+  + Skyggebilleder af ideernes verden
+
+Matematik hører til i ideernes verden.
++ Tal, formler... er en del af ideernes verden vi har adgang til
++ Ideen kvadrat er fra ideernes verden, det vi har adgang til er skyggebillede af ideernes verden
+
+Formalvidenskab - vi har lagt alle reglerne(Helge Kragh)
++ Lidt ligesom ideernes verden
+
+* Wigners mirakler
+Hvis matematikken lever i ideernes verden, hvordan kan den bruges til at beskrive naturvidenskab?
++ Matematiske idder er noget vi har skabt helt frit, uden at tage hensyn til
+  mennesket kultur(social konstruktivisme)
++ Dualisme mellem det ideal og real
+
+Hvordan forklarer vi hvordan matematik kan anvendes?
++ Matematisk erkendelse udvikler sig sammen med naturvidenskabelig erkendelse
++ Vi fokuserer der hvor vi kan bruge det til noget
+* Kant
+  a priori og a posteriori
+  A posterori
+  + Går ud i verden og stille spørgsmål
+
+  Analytisk udsagn
++ Alle unkale er ugidt
++ Hvilken betydning er indlejret i hinanden
++ Ren tautologi
+Syntatiske er alle de andre
+
+Kant siger matematik er syntetisk a priori
++ Matematik handler om hvoran mennesker er i verden?
+
+* Metamatematik
+Hilbert
++ 1900-tallet bliver matematisk genstandsfelt for matematik
++ Matematik bliver brugt til at studerer matematik
++ Matematisk object er kun det vi har defineret til hvad der
++ Det er ligegyldigt hvad matematik studerer - det har vi selv valgt
++ Metamisk teori om matematisk aktionssystmer -> bevisteori
++ Hvorfor har helge kragh ikke ret?
++ Aktionssystemet bliver udvikler
++ Hilbert - finitistisk kerne
+
+Kurt göbel
+  + Ufuldstændigshedssætning
+  + Der findes altid noget matematik ikke kan nå endnu
+    + Så kan vi tilføje noget til matematik, men der er stadig ting der mangler
+
+* Firefarvesætningen
++ Graf problem
++ Løsningen består af at teste 1476 grafer på computeren
+  + Tager 1200 CPU timer
+  + Dette er så lang tid baggrundsstråling kan flippe en bit så beviset falder fra hinanden
+  + Virkeligheden ødelægger altså det matematisk perfekt
++ Hvert trin er større end mennesker
++ Matematisk problem der ikke kan løses uden computeren
++ Satte spørgsmål ved om computeren er ligesom en blyant
++ Modsætning til normale beviser, så består beviset af
+  + Kort stykke matematik
+  + Computer program
+  + Argument for korrekthed af computerprogram
+  + Output af program
+  + 150 siders bevis
+
+* Kuhn
+Sociologisk historisk synspunkt.
+Det en gruppe videnskabsmænd er fælles om er etparadigme.
+Kunne være turingmaskinen og von-neumann arkitekturen
+
++ Nogle elementer er vigtigere end andre
+  + Dette bestemmes af en socail afgrænsning
++ Sammenstiling af ting vi deler er et paradigme
++ Når et paradigme skfiter, så ændres verden også
+  + Vores syn på verden, ændre hvordan verden er
+  + Verden er som den fremstår for os
++ Paradigme er instantieret i disciplinær matrix
+  + Metafysisk - specille måder at tænke om paradigmet ude fra. Analogier set udefra
+  + symbolske generalisering
+  + værdier - det der binder større videnskabeligt samfund sammen
+    + Hvor vigtigt er det teorien kan forklare noget
+    + Det skal deles i paradigmet
+  + Exsemplarer - vilke lærebøger, problemer, teknikker osv.
+  + Symbolske generaliseringer - basale udsagn der ligner naturlove, men er definitioner
+    + Kunne være asymptotisk notation
+
+Kuhn inkommensurabilitet(usammenlignelige)
++ Eksperimenter er teori-afhængige
++ Paradigmer afløses af nye teorier
++ Når vi er indenfor et paradigme laver vi normalvidenskab - lære mere og mere
++ Derefter revolution
++ Hen over revolution er der inkommensurabilitet
++ Derefter nyt paradigme?
+Kuhn revolution
+
+Kuhn kan bruges til at indgrænse paradigme og vide hvornår der sker revolution
+
+Paradigme er en måde at pakke alle antagelser væk som noget vi tror på eller
+bare ved
+
+* Transparadigmatiske værdier
++ Paradigmer som måske bliver videreført mellem to paradigmer
++ Bløder revolutionsideen op
++ Der er måske noget der er større end paradigmer
++ Paradigmer er som perler på en snor for Kuhn.
++ Vi bløder den op så perlerne hænge sammen og har noget til fælles - tykkere snor
++ To paradigmer sammen - overvej om der er noget mellem disciplinerne
+
+* Hvad er paradigmer
++ Paradigmer og disciplinære matricer kan bruges til at indfange en gruppe videnskabsfolker.
++ Paradigmet er en socilogisk process gennem disciplinering
++ Paradigmer skifter over tid men langsomt. Hold fast i grundprincipper indtil
+  skift/revolution. Derfor er der usammenlignelighed til stede

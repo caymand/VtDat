@@ -1,0 +1,60 @@
+#+title: F1
+* Helge Kragh
+Interlektuel social process. Stræber mod at gøre:
++ offentlige
++ fejlbarlig - mulig den er forkert
+  + må ikke være dogmatisk
++ korrigerbar
++ testbar
+  + Hvis den er forkert er den nødt til at være testbar
+  + Vi skal afgøre om viden er forkert
+  + Er matematik så ikke videnskab?
+=Videnskab leverer ikke absolut sandhed, men fejlbarlig viden der kan korrigeres=
+Anden forklaring
++ Forhåndenværende
++ foreløbig
++ kan kritiseres
++ kan forbedres
+
+* Realvidenskab og formalvidenskab
+** Realvidenskab
++ Studerer noget der er derude
++ Fysisk virkelighed - noget der er der om vi observerer det eller ej
++ Fænermæner
++ Laver induktiv slutning
+** Formalvideskab
++ Det er os der har skabt
++ Matematik
++ Logik
++ formelle systemer vi har defineret og givet egenskaber
++ Referer ikke til noget i verden
++ Muligt at lave deduktiv slutning - deduktivt bevist
+
+
+
+** Evidens
++ Lokal empirisk viden til teoretisk synspunkt
++ Data er aldrig rene. Altid indsamlet under specifikt teoretisk synspunkt
++ Bruger indsamlet data til grundlag for teori
+
+* Datalogi
+For Peter Naur er computeren ikke et genstandsfelt i datalogi men et redskab
+
+* Demarkationsproblemet
+Finde ud af om noget et videnskab eller ej
+Astronomi <> astrologi (not a monoid)
++ Astrologi er ikke videnskab
++ Astronomi er videnskab
+
+Demarkration - adskillelse
+Hvornår adskille man videnksab fra ikke videnskab
+
+* Mode-1 videnskab
+Viden bliver lavet på universiteter
+Viden=academia
+Køb salg mellem stat og universiteter
+
+* Mode-2 videnskab
+Viden bliver lavet uden for universiteter
+Viden er spereret fra academia
+Tre-enighed mellem universitet, staten og erhvervslivet

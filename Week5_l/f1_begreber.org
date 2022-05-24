@@ -1,0 +1,8 @@
+#+title: F1_begreber
++ Natural kinds
++ Human kind
++ Model agnostic
+  + global og local
++ Model specific
+  + global og local
++ Scenarier og scenarietænkning

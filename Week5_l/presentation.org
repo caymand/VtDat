@@ -1,0 +1,59 @@
+#+TITLE: Presentation
+* Begreber
++ Epistemic
++ Epistimology
++ Prima facie
++ epistemological problem
++ Inconsistent family of models => context
++ Parker ensemble prediction
+  + Unknown initial conditions and parameter
+  + Find things that are invariant
++ Robutness analysis(ostensibly) - invariance
++ Information not confirmation
+  + Interested in what the model can coherently say about target sytem
+
+* Mutually inconsistent
++ Factually
++ Conceptually inconsistent
+
+* Section 2
++ scientific theory is a collection of models and assumptions
++ Models of theories
++ Model of target system
++ Models as scientific devices
++ =Factually inconsistent models=
+  + Different initial conditions and parameter setting
+  + Same assumptions
++ Nogle modeller kan bruge forskellige representation af target system uden at være inkonsistente
++ Incompatable assumption from idealizing
+  + Auxillary assumptions
++ Substantial assumption
++ Robustness analysis - results are invarent when changing auxillary but keeping substantial
++ =Conceptually inconsistent models=
+  + Conflicting substantial assumptions
+  + Prima facie about how they can cohenretly agree on claims about target system
+
+* Section 3
++ Realist view
+  + Epistemic value = representional accuracy
+  + prima facie how inconsistent models can have epistemic value
++ Anti-realist vieiw
+  + Epistemic value of explanatory power
+  + coherent explanation
++ Inconsistency in scientific disagreement -> inconsistent models
++ =Perspectival realism=
+  + Members in family of inconsistent models views the target system from different perspectives
+  + Target system exhibits different properties
++ =Model pluralism=
+  + Bag of trick to view target system in context
+  + Models for different purposes
++ These types of inconstant models avoid epistemic problems
++ Ensemble methods are bad because the tell with a probability whether something is true not why
++ Most important is inconsistent model with incompatible substantial assumptions
++ Even though models ascribe the core structure they can still share a common structure
+  + This grounds shared informations
++ Find causual core structure in robustness analysis
+  + Mathematically - differntial equation
+  + Empirically
++ =Shared peripheral structure=
+* 4

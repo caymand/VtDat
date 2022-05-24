@@ -1,0 +1,10 @@
+#+title: K6
+
++ Ikoniske modeller
++ Analogi-modeller
++ Matematiske modeller
++ Dialektisk og iterativ matematisk modellerings-process
++ Kuhns paradigmer spiller ind i modelleringsprocess
+  + Valg af hvad man idelisere
+  + Aggregering = mikro -> makro niveau
++ Explorative experimentation

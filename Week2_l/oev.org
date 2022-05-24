@@ -1,0 +1,21 @@
+#+title: Oev
+
+* Hypotetisk deduktiv
++ Falcifecering
++ Deducerer konsekvenser af hypoteser
++ Vej konsekvenser op mod virkeligheden
++ Skel med logisk positivister der laver induktion
+
+
+* Kuhn
++ Kun videnskab indenfor paradigme
++ Nok anomalitet giver revolution
+
+Definition af videnskab
++ Afhænger af tiden og paradigmet
++ Hvad er kernen i paradigmet
+
+* Poper videnskab
+Definition af videnskab
++ Det der kan falcificeres
++ Det der kan verificeres er ikke nødvendigvis videnskab

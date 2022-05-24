@@ -1,0 +1,87 @@
+#+title: F1
+* Matematisk modellering
++ Ikke alt er bevaret i en model.
++ Forskellige typer af modeller
++ Model indganger kun noget af det man er interesseret i
++ Den skal gerne indfange de ting man er interesseret i
+
+Ting man skal forholde sig til ved en model
++ Teoretisk og fænomenetisk
+  + =Fænomenetisk= - data drevet. Big data og ML
+  + =Teoretisk= - ved allerede hvad der burde ske. Newtons mekanik
++ Hvordan repræsenterer modellen
++ Alle modeller er falske, men nogle er brugbare
+  + Giver forklaring af fænomener i verden
+
+Er verden beskrevet af matematik?
++ =Metafysisk argument=
+
+Modellen handler ikke om at finde sandheden, men forstå verden
+
+=Idealisering=
++ Idealisering af den virkelige verden for at give bedre modeller
++ Skifter en måde at se verden på ud med noget forkert, for at få bedre resulter
++ Handler om at være pragmatisk - lave bedste model. På trods af forkerte antagelser
+
+=Abstraktion=
++ Se bort fra nogle egenskaber
+=Pragmatik=
++ Alle er forkerte, men nogle er nyttige
+
+** Matematisk modellering
++ Ser på udsnit af virkeligheden - genstande, egenskaber og forbindelser
++ Derefter konceptuel model
+  + Afgrænsning
+  + forenkling
+  + strukturering
++ Laver matematisk model
+  + bruger abstraktion og idealisering
+  + Bruger matematisk notation og begreber til at lave model => udleder konsekvenser
++ Det er en =idealisering= og lave modellen
++brug af modellen er =anvendelse=
++ Modellen er dialektiserende
+  + Forhandling mellem stadierne for at de passer
+Handler ikke om at matematikken er i verden, men at vi bruger matematikken til at beskrive verden
++ Vi laver modeller, for at få forståelse af verden, ikke fordi de er ægte
++ Intet kriterie for den bedste model (Kuhn) - afhænger af hvad vi vil beskrive
+
+/Modeller som pragmatiske ting/
+
+* Beregningsmodeller
+Hvorfor bruge beregningsmodeller?
++ Virklighedsbillede er så komplekst man ikke kan forudse noget
++ Uetisk eller uladesigøreligt at bygge system
+
+Vurdering af modeller
++ Stoler vi på scenarier vi beregner
++ Udledt forskellige modeller og tager gennemsnit
+
+=Post normal viden=
++ Reaktion på at der måske ikke er et paradigme
++ Vi må lytte til alle
++ Alles viden skal integreres sammen
+
+=Normal viden=
++ Viden produceret inden for paradigme
+* Data er beskidte
++ Ting der kommer ud af matematisk model har ofte stor autoritet
++ Får man et tal kan man nemt falsificere
+
+Er ML genoplivning af positivisme
+
+Data er aldrig rent
++ Ligesom situationen med observer
++ Data indsamles af nogen og bliver subjektiv
++ Data renses med formål
++ Data bruges i pragmatisk sammenhæng
+
++ Data er indsamlet under bestemte omstændigheder
++ Data kan ikke gøres rene uden bias
++ Bekræftet viden er ikke noget vi lære af
++ Skjulte antagelser
+
+* Statistik er beskidt
+=Correlation does not imply causation=
+=Statistik er aggegerende=
+
+* Argumentet i kompakt form

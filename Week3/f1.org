@@ -1,0 +1,57 @@
+#+title: F1
+
+* Kuhn
++ Få paradigmer
++ Svært at skifte paradigmer
++ Forklaring på paradigme er disciplinær matrix
++ To paradigmer er inkommensurable
+  + Kalder ting forskellige ting
+  + Man kan ikke lave vurdering uden at være i et paradigme
+  + Kan ikke længere dele teori og eksperimenter er teori-afhængige
+
+* Datalogienske matematiske ophav
++ Uendelighedsbregrebet
+
+** Aktiomssystemer
++ basal antagelser
++ basal egenskab
++ Indeholdet af elementerne er ligegyldigt
++ Relation mellem aksiomer er vigtigt
++ Bryder regress ved at have en kerne vi tror på
++ Lidt som kuhn paradigme
++ Finit kerne
++ Prøve at vise matematikken er konsistent
+  + $\sim(p \land \sim p) \equiv p \lor \sim p$ skal gælde
+  + Udvalgsaktiomet og dets uafhængighed - kun sandt og falsk?
+  + Kontinuumshypotesen og dens uafhængighed-hvis noget er sandt kan det bevises
++ Mængdelæren er kernen i aktisiomsystemet i matematik
++ Aktiomatisering af mængdebegrebet
+
+** Gödels ufuldstændighedssætning
++ Tager matematikken som genstandsfelt for sig selv
++ Teorier der er konsistente har sætninger der ikke kan bevises
++ Gödel bruger dette til at modbevise hilbert
+
+* Kleene og Halting-problemet
++ Ingen turing-maskine der givet en anden turing-maskine kan afgøre om den slutter
++ Turing maskinen kan beregne det der siges at være menneskeligt beregneligt
+  + Turing maskinen kan ikke beregne halting problemet
++
+
+* Hartmanis
++ Turing maskine med flere bånd
++ Turing maskine har samme utryktskraft som matematisk reeasoning
++ Studer hvor svært et problem er at løse med en given turing maskine
++ Monoparadimatisk periode
++ Ingen historie for kritiske experimenter
+  + Eksempelvis har einstain ret eller ej
+  + Kender vi ikke i Datalogi
++ Turing-maskine er ikke udfordret af teori og eksperimenter
++ Halting problemet er velforstået og accepteret
++ Kvantecomputeren er en anden måde at udtrykke hvad der er beregneligt
+  + Måske nyt paradigme
++ Vi tror på turingmaskinen - vores paradigme
++ Spændende egenskab ved et problem er hvordan kompleksiteten vokser med
+  problemet
+
+* Formelle metoders anvendelse i Datalogi

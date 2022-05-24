@@ -1,0 +1,20 @@
+#+title: Programmering Som Aktivitet
+* Naur text
++ Naur
++ Det der tager længst tid er ikke at skrive kode
++ Aktivitet af ideer
++ Program livscyklus
+  + Program lever så lenge en gruppe af programmører står for koden
+  + Program kan lever efter død
+  + Ligesom Kuhn
++ Programmering er iterativt flydende process
++ Ikke en opskrift for at skrive et program
++
+* 10 bud tekst
++ Iterativ program
+
+* Feedback
++ Kort tid på referat
++ Træk tråde og discussion
++ Se nuancer i ting der er ikke er sort/hvis
++ Diskuter gerne
