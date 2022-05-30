@@ -1,16 +1,16 @@
 #+title: A2
+#+author: Kristoffer Kortbaek(jnq 578), hold 5
 #+options: toc:nil
 
 * Kuhns paradigmer
 Indenfor Kuhns videnskabsteori opstår begrebet paradigme. For Kunn er dette et fælles verdenssyn der
 er delt blandt en gruppe videnskabsfolk, og som helt konkret, bliver instantieret i en disciplinær
-matrix\cite{kap2}. Denne desciplinære matrix kan have for skellige dimensioner eller elementer, som
+matrix\cite{kap2}. Denne disciplinære matrix kan have forskellige dimensioner eller elementer, som
 er med til at afgrænse paradigmet.
 Herunder er eksempelvis en hvis metafysisk dimension\cite{kap2}. Dette vil være ting, som hvertfald
 set udefra paradigmet, ligner metaforer og analogier som paradigmet er bundet i. Set ud fra Hilberts
 program, så kan et metafysisk element være ideen om at atomare operationer i den endelige aritmetik
-er sikre\cite{kap3}. Altså, at man kan opnå klare deduktive slutninger ud fra atomare operationer i
-matematikken.
+er sikre\cite{kap3}.
 Derudover kan den disciplinære matrix være tildelt et særligt sæt af værdier, som binder en større
 gruppe videnskabsfolk sammen\cite{kap2}. Netop denne dimension er med til at fremhæve
 inkommensurabilitet begrebet, siden man ikke, på en rationel måde, kan stå uden for to paradigmer,
@@ -21,36 +21,32 @@ forskellige værdisæt, i forhold til hvor vigtigt det er at en teori forklarer 
 
 Derudover kan den disciplinære matrix også indeholder en rækker eksemplarer, som karakterisere
 paradigmet\cite{kap2}. Dette kunne være klassiske lærebøger og problemstillinger, som der er enighed
-om. Indenfor datalogi kunne dette være "The dragon book" inden for compiler design eller "K&R"
-indenfor operativsystemer og C eller "CLRS" indenfor algoritmik.
-
-# Et paradigme og dets disciplinære matrix er altså en sammenstilling af ting som
-# videnskabsmænd (m/k) d
+om. Indenfor datalogi kunne dette være "The dragon book" inden for compiler design samt haltinig-problemet.
 
 * Datalogiens paradigme
 Et paradigme bliver instantieret i dets disciplinære matrice, og herved kan Turing-maskinen
 instantieres i en disciplinær matrix. Før den første Turing-maskine blev bygget, lavede Turing sin
 model for hvad det vil sige at beregne et tal\cite{kap3}. Dette må siges at være det metafysisk element, siden
-datalogier alle tror på denne tanke omkring Turing-maskinen - den kan udregne alt der er
+dataloger alle tror på denne tanke omkring Turing-maskinen - den kan udregne alt der er
 beregneligt.
 
 På det eksemplariske plan, ligger det klassiske datalogiske problem - halting problemet. Turing var
 netop interesseret i om man kunne finde ud af om en given Turing-maskine var cirkelfri\cite{kap3}.
-Særligt dette problem på den eksemplariske dimension af den disciplinære dimension, er der særdeles
-vigtighed om indenfor datalogi. Der udvikles netop programmeringssprog, som ikke er turing
-komplette, eller ikke kan simullerer en Turing-maskine, for at man dermed undfår at de er cirkelfri
+Særligt dette problem,  er der særdeles
+vigtighed om indenfor datalogi. Der udvikles netop programmeringssprog, som ikke er Turing
+komplette, eller ikke kan simullerer en Turing-maskine, for at man dermed undgår at de er cirkelfri
 og halting-problemet bliver trivielt.
 
 Skal man tilsut instantierer Turing-maskinen, som del af det datalogiske paradigme kan man se på
 dimensionen omkring værdier. \cite{kap3} beskriver det som værende revolutionerende at Turing fandt
-en måde at konstruere en universel Turing-maskine. Dette koncept af at instruktionssæt og
-programmeringssprog hver i sær er Turing-komplette, da de kan emulerer en Turing-maskinen, har
-særdeles stor værdi indenfor datalogi, da man kan med samme beregnelige kraft kan løse en række
+en måde at konstruere en universel Turing-maskine. Dette koncept, af at instruktionssæt og
+programmeringssprog hver i sær er Turing-komplette, og de kan emulerer en Turing-maskinen, har
+særdeles stor værdi indenfor grene af datalogi, da man kan med samme beregnelige kraft kan løse en række
 problemer med det værktøj der passer bedst.
 
 * Kvantecomputre
-Aaronson nævner helt centralt at man for første gang har fundet et problem som en kvantecomputer kan
-løse effektivt, uden at en traditionel computer kan løse effektivt. Herudover pointerer han, at den
+Aaronson nævner helt centralt, at man for første gang har fundet et problem, som en kvantecomputer kan
+løse effektivt, uden at en traditionel computer kan løse det effektivt. Herudover pointerer han, at den
 klassiske computer ikke engang kan verificere svaret på en "query" effektivt. Vigtigt i Aaronsons
 udtalelse ligger hans ordvalg af effektivt. Dette betyder altså, at en klassisk computer ikke kan
 løse problemet i polynomiel tid, men en langsommere tidskompleksitet. Derimod kan kvantecomputeren
@@ -70,12 +66,41 @@ Turing-maskinen, men dette er så at sige en dårlig model for en speciel type a
 kvantecomputeren har en anden kompleksitet som Turing-maskinen ikke afspejler.
 
 * Revolutioner i datalogi
+I datalogi, og med Turing-maskinen som paradigme, så er det måske sværere at snakke om
+inkommensurabilitet og revolutioner, siden udtryktskraften af Turing-maskinen er en accepteret
+og indforstået del af paradigmet. Turing beviste, at Turing-maskinen kan udtrykke, alt det der er
+beregneligt, og Hartmanis har således brugt denne model, til at udtrykke kompleksiteten af hvad der er
+beregneligt på en Turing-maskinen.
 
+Artiklen nævner dog, at selv i en verden hvor P er lige NP, så vil der stadig være problemer som kun
+en kvantecomputer kan løse\cite{artikel}. Det kan diskuteres hvorvidt forfatteren har misforstået
+noget, og der istedet menes problemer, som kun kvantecomputeren beviseligt kan effektivt beregne. Med
+antagelsen at forfatteren har ret i hans udtalelse, så er dette så og sige ikke nødvendigvis en
+anomali der giver anledning revolution til Turing-maskinen som paradigme. Eftersom Turing-maskinen udtrykskraft er indforstået i
+det Kuhnske paradigme, og kvantecomputeren angiveligt kan beregne noget, som Turing-maskinen ikke
+kan, så er det altså udenfor hvad der er indforstået i Turing-maskinen som paradigme. Dog kan man
+stadig forestille sig, at eftersom kvantecomputeren kan beregne alt en Turing-maskine kan, så er
+denne model et nyt paradigme, som alligevel skaber en revolution.
+
+For at tale om hvorvidt de giver mening at tale direkte om inkommensurabilitet, så man igen kigge på
+en af Aaronsons udtalelser: "So we sort of want to know, where does quantum computing fit into the
+world of classical complexity theory?"\cite{artikel}. Ser man på paradigmet i datalogi ud fra
+Hartmanis, så virker det på Aaronson til, at der er inkommensurabilitet mellem
+kompleksitetsteori i kvantecomputeren og den ellers traditionelle kompleksitetsteori, som Hartmanis
+opfandt med udgangspunkt i Turing-maskinen. Her antydes det netop, hvorvidt det overhovedet giver mening at
+sammenligner kompleksiteten af problemer på Turing-maskinen med problemer der kan løses på
+kvantecomputeren effektivt. Den anden del af inkommensurabilitet ligger således også i de problemer,
+der måske kun kan løses på kvantecomputeren. Her må man så falde tilbage til problemstillingen, om
+datalogi kun er klasificeret ud fra Turing-maskinen, og hvad denne kan beregne. I så fald kan der
+som sådan ikke være tale om inkommensurabilitet, fordi Turing-maskinens udtryktskraft som sagt er
+indforstået i paradigmets metafysiske dimension.
 
 \begin{thebibliography}{9}
 \bibitem{kap2}
 Sørensen, Søren Kragh. (2022). „Datalogi og teknologi“. Kapitel 2
 \bibitem{kap3}
 Sørensen, Søren Kragh. (2022). „Fundamentale modeller og datalogiens teoretiske paradigme“. Kapitel 3
+\bibitem{artikel}
+Hartnet, Kevin. (2018). "Finally a Problem That Only Quantum Computer Will Ever Be Able To Solve"
 
 \end{thebibliography}
