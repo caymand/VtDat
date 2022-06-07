@@ -1,0 +1,82 @@
+#+title: F1
+
+* Grundlæggende etiske overvejelse
+** Normativ
++ Teorier der prøver at give etisk rigtigt svar at handle i all situationer
++ Hvordan man bør handle
++ Bestemt af filosoffer
+
+** Deskriptiv etik
++ Hvordan folk tror de handler - hvad de synes
+** Dialog mellem normativ og deskriptiv etik
++ Der er dialog mellem normativ og deskriptiv etik.
++ Det handler om at skabe konsistens
++ Dialetik mellem de to tankegange til etik
++ Didalog med det lovmæssige
+  + Kræven at dem der laver lovene har perfekt etisk indsigt
+  + Juridisk vakuum
+  + De nye teknologier har politikkerne ikke forstået
++ Treenighed mellem - etik, praksis og jura
+  + praksis - deskriptiv?
+    + Folk synes det er forkert, men det er etisk forkert og ulovligt
+  + Etik - normativ?
+    + Noget folk ikke gør og er ulovligt
+  + Jura - mangel på forståelse?
+    + Lovligt, men etisk forkert og noget man ikke gør i praksis
+
+* Normativ etik
+** Utilitarisme
++ Konsekvensetik/nytteetik
+  +Vurdering af handling -> udelukkende handlings konsekvenser
++ Skaber handlings konsekvenser nytte i samfundet (udelukkende hvad der kigges på)
++ Principle of utility
+  + Se på om handlingen forøjede eller formindskede nytte/utility hos de behandlede parter
+  + Etik løsrevet fra religiøse tanker (handler ikke om at behandle sin næste)
+  + /Science of morality/ - kvantificerbar størrelse
+  + Konkret formalicere hvad giver mest nytte og hvad der dermed er etisk rigtigt
++ Den er svær at kvantificere og først når man stiller den ordenligt op (matematisk) bliver den hurtigt uklar
++ Det er mere en ramme hvor man selv skal finde de vigtigste parametre
++ Forsøg på børnehjemsbørn -> gavnede den samlede løkke for verden
++ Handlingsutilitarisme
+  + Vurder hver handling for sig
++ Regelutilitarisme
+  + Lave regler om hvad der er nyttemaksimerende
+  + Forsøg på børn er ikke en nyttemaksimerende regel
++ Vag teori - mange parameter man skal besteme
++ Imod vores intuition
++ Kigger kun på lykke - en-dimensionel
+  + Tænker ikke på frihed, privatliv...
+
+** Deontologi(pligtetik)
++ Form for =regeletik/pligtetik=
++ Kigger ikke på konsekvenserne af handlingen, men kun om handlingen er rigtig
++ Kant
+  + Rationelle mennesker med frihed
+  + Vi er slaver af vores lyster hvis vi bare gør som vi har mest lyst til
+  + Derimod skal vi bruge vores fornuft og rationalitet til at diktere handlinger
+  + Fornuften ønsker konsistens
++ =Det katagoriske imperativ=
+  + Lav kun handlinger der er konsisten på den måde at alle andre også ville gøre det
+  + Hvis alle brækker grene af træet, så vil træet dø - =inkonsistent handling=
+  + Hvis alle løj, så ville løfteinstitutionen bryde sammen
+    handlingen om lyve bliver meningsløs og inkonsistent
+  + Konsekvensen er at handlingen og lyve ikke giver mening længere
+  + =Handlingen bliver inkonsistent=
+  + Vi får ikke en dårlig handling af at læse, men vi får en meningsløs verden
+  + Acceptere at alle må eller kan stjæle
++ Det praktiske imperativ - omformulering/alternativ til det katagoriske imperium
+  + Man må ikke behandle nogen som middel for at opnå mål der ligger uden for dem selv
+  + Handler om at accepetere deres egen autonomi
+  + Slaveri er forkert - bruger dem som middel
+  + Ansatte har en autonomi da de er et mål i sig selv ved at have accepeteret deres autonomi
+** Thomas Nagel
++ Prøver at bruge nytteetik og pligtetik
++ Agent-neutrale
+  + Utilitaristiske
++ Agent-relative
+  + Deontologiske - andres krav på ikke at blive behandlet dårligt
+  + Autonome - mine egne mål og livsprojekter
+  + Specielle - familiebånd
++ Den almindelige borgerlige moral(mavefornemmelse) tager udgangspunk i agent-relative- og neutrale aspekter
++ Deontologiske ideer er stopklods
++ Kan bruge autonome værdier til at bryde utilitarisme

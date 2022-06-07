@@ -1,0 +1,83 @@
+#+title: Oev
+
+* Hip fracture
++ Handler om mænd og kvinder der har fået taget en DEXA skanning
++ Samlet forskellige data udover DEXA skanningen
+
+** Metoder
++ Bruger 5-fold CV
+** Valg af data
++ 75.000 Predictors -> dimensioner
++ Sundhedsdata og persondata
++ De reducerer dimensionerne - PCA?
+  + fra 75.000 til 1.200
+  + Derefter laver de entropy over de 1200 dimensioner - giver uoverensstemmelse mellem m/k
+
+** Valg af modeller
++ Bruger flere modeller?
++ Mænd og kvinder bruger forskellige modeller til forudsigelser
+
+** Objektivitet
++ Prøver at have lille menneskelig beslutnign for samling af data
+  + Dog tager de alligevel nogle subjektive beslutninger (vælg kun hospitaler i DK?)
++ De har valgt nogle specielle kategorier man måler på
++ Ikke inkluderet alkohol og tobaksforbrug (subjektivt)
++ Bruger ikke genetik for forældrene, men laver automatisk indsamling
++ Bruger spørgeskema for at prøve og opnå objektivitet
++ Bruger uddannelsesniveau? Måde alligevel og få alkohol og tobaksforbrug
++ Når en model ikke er god nok vælger de en anden
+
+** Spørgsmål
++ Kan man få den perfekte model på tværs af et domæne
++ Findes der den perfekte metode til valg af parametre
+
+Perfekte model kan være perfekt inden for:
++ Fair
++ objektiv
++ Forudsigelser -> pas på med overfitting
+
+** Epistemisk problem
++ Handler om hvad for noget viden vi får ud af modellen -> er det troværdigt
++ Epistemiske overvejslse er hvor god er informationen fra modellen
+
+** 3 epistemiske problemer ved ML
++ De mange dimensioners forbandelse
+  + Artiklen fravælger dimensioner de ikke har nok data på
+  +
++ Problemet med sammenfaldende fænomener - ikke se forskel på kausalitet og korrelation
++ Induktionsproblemet
+  + Er modellen generelt gældende
+  + Kommer den til at virke i fremtiden
+  + Vi har trænet i aalborg og aarhus -> kan det generaliseres til kina?
+  + Known unkown og unknown unknown
+
+** Objektivitet
++ Fravær af menneskelig fortolkning
++ Hvad er objektivitet
+  + Universel dimension
+  + Fravær menneskelig fortolkning
++ Objektivitet som modsætning til
+  + Subjektivitet
+  + Bias
++ Objektivt indenfor lukket system, hvor valget af lukket system er subjektivt
++ Objektivitet som spektrum. Objektivitet er idealet
++ Logisk positivisme - objektivitet kan opnås
+  + Teoriløs interesseløs observation
+  + Man kan blot observerer verden og opnå resultater
++ Social konstruktivisme - objektivitet kan ikke opnås
+  + Alt er subjektivt
++ Instrumentalisme
+
+* Compas
++ Model til at forudsige om kriminelle begår kriminalitet igen
++ Haft bias mod sorte -> større risiko scorer
+
+** Etnicitet
++ Indrager ikke etnicitet, men faktorer der kan korreleres med etnicitet
++ Etisk ansvar - ingen lov
+
+** Fairness
++ Modellen af fair da den måler samme parametre
+
+** GDPR
++ Kende GDPRs principper

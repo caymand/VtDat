@@ -1,0 +1,30 @@
+#+title: Oev
+
+* 1.
+Det hele er spørgsmål om valg.
+To pile for at komme frem til en konklussion.
+For at lave konceptuel model forhandler man med virkeligheden
+
+** Tekst1
+Nemt at se virkelighed til konceptuel til matematisk
+
+** Tekst2
+Dialektisk tilgang er lidt ligesom den agile udvikling
+
+
+* 2.
+** Tekst 1
++ Antagelser for at afgrænse vores modeller (afgrænsning til konceptuel model)
++ Ingen forbehold for at få matematisk model
+
+** Tekst 2
++ Diskretisering for at komme fra kontinuitet i virkeligheden til diskret på computer
++ Rigtige abstraktionsniveau (modeller byer eller individuelle dyr)
+
+* 3.
+SIR laver også klare afgrænsninger ligesom teksternes modeller til en konceptuel model
+SIR er konceptuel, men som giver matematisk formel.
+
+Kører den på computer kræver afgrænsning til diskret, fordi den er udtrykt ved
+koblede uløselige differentialligninger.
+Rigtige abstraktionsniveau (sir passer ofte ikke)

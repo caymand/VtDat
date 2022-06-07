@@ -1,6 +1,6 @@
 #+title: K1
 * Begreber
-+ Deskreptiv etik
++ Deskriptiv etik
 + naturalistiske fejlslutning
 + Normativ etik
   + Nyyeetik
@@ -16,7 +16,7 @@
 + Agenteutrale værdier
 + Agentrelative værdier
 + Agentrelative + deontologiske værdier
-+ Agentrelative + autonome værider
++ Agentrelative + autonome værdier
 + Kontekstuel integritet
 + Uvidenhedens slør
 + Udskiftbar
