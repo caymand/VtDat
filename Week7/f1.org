@@ -1,0 +1,89 @@
+#+title: Opsamling
+
+* Videnskabelige metoder
++ Positivisme
++ Induktionsproblem
++ Popper - videnskabelige metode(falsifikation)
+  + Giver regress
+  + Passer data med teori?
+  + Hvordan ved vi dataen er rigitg - det gjorde vi på grund af teorien, men vi tester teorien
++ demakration
++ Experimenters regress - argumentation for påstand afhænger af påstanden selv
++ Duhen-quine tesen
+  + selv hvis vi får falsificeret, hvilken hypotese er så falskt?
+  + Udstyr med mere er jo en del af hypotesen
++ Kun er også en regress - når teorien er falsificeret, hvad skal vi så holde fast i?
+  + Kuhn siger det ikke er viden men en social konstruktion man er enig om
+  + kuhn er et svar på poppers problem med hvad man gør når man skal ændre hypotesen
++ Paradigmer og disciplinær matrix
+  + Eksemplarer - lærebøger, typeopgaver
+  + Grundantagelser - ligner videnskab, men er bare noget der er bred enighed om
+  + Meta fysiske antagelser - vi (som dataloger) ser verden som noget der kan beregnes
+    + Det er en antagelser vi gør os
+  + Nogle værdier - kunne være at en god datalogisk teori er beskrevet asymptotisk
++ Revolutioner og inkommensureabilitet
+  + Anomalier
+  + Krise - videnskabeligt samfund er i tvivl
+  + Forkaster de gamler værdier og laver et nyt paradigme med ny normalvidenskab
+  + Meget kraft inkommensureabilitet mellem teorier og eksperimenter i to paradigmer
+  + Når paradigmet forandrer sig så forandrer verden sig
+  + Det er ikke muligt at vurderer paradigmer uden at være i et paradigme
++ Transparadigmatiske værdier - findes ikke
+  + Der er ikke noget ståsted fra hvor man kan sige et paradigme har bedre værdier end et andet
++ Datalogien teoretiske paradigme
+
+* Videnskabernes organisering
++ Mode1 og mode2 videnskab
++ Cudos og place videnskab til normer
+  + Cudos - Forskning kun på universitet
+  + place - Forskning andre steder end kun universitet
++ Organiseret skepticisme
++ Overgang fra cudos til place
+  + Ingen grund til at vi er skiftet fuldstændig til place
+
+* Programmering og udvikling
++ Teknologiske systemer
+  + Hvordan skal vi tænke om teknologi
+  + Det handler ikke om den enkelte artefact
+  + Handler om at studerer hvad teknologiens påvirkning er på et netværk
++ Algoritmer og turing-maskiner
+  + Kommer som et forsøg på hvad mennesker kan lave
+  + Standard opfattelse af hvad mennesket kan
+  + Alt hvad der kan beregnes kan udføres af en turingmaskine
+  +
++ Lukkede og åbne systemer - formelle bevier og tests
++ Programmeringssprog som abstraktioner
+  + Forøg på at lave sammenhæng mellem menneskelig tænkning og maskinen
++ Softwareudvikling og softwaerkrise
+
+* Modellering
++ Abstrakt (matematisk)
++ Iterativ og dialektisk
+  + Iterativ - kan løbes igennem flere gange
+  + Dialektisk - mellem hvad der kan gøres og hvad vi behøver
++ Beregningsmodeller
+  + Beregningseksperimenter
+  + Lav simulationer i steder for virkelige eksperimenter
+  + Handler om at lave diskrete modeller eller algoritmer vi kører på computeren
++ ML-modellering
+  + Flytter man en model over til det der er disjunkt, så antager vi at den kan bibeholde samme parametre
+  + Det gør modellen opfører sig mærkeligt nogle gange
++ Idealisering og abstraktion
++ Fortolkning og pålidelighed
++ Induktionsproblem - humes problem
++ Korrelationer i store data-mængder
++ Modeller påvirker fremtiden
+
+* Etik
++ Etik, jura og praksis
+  + Etik - læren om hvad der er moralsk rigtigt og gøre
+  + Gode ide at adskille de tre og lade dem overlappe
++ Kants pligtetik og Kategoriske imperativ
+  + Handle så dit maksime vil blive almen nyttig lov
+  + Behandel folk således de ikke kun er midler, men også som mål
++ Individets autonomi
++ Utilitarisme - nytteetik
+  + Lykke-maksimering
+  + Autonomi
++ Nagels balancering
+  + Vælge mellem de to paradigmer af etik

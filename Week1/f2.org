@@ -2,7 +2,7 @@
 
 Computeren er redskab til at teste teorier i datalogi
 
-* Kudos
+* Kudos/cudos
 Kudos - giv videnskab penge og videnskab giver nyttigt til samfundet
 
 * Den lineære model

@@ -1,0 +1,39 @@
+#+title: Privacy
+
+* Target
++ Amerikansk supermarkede
++ Man kan købe alt
++ Ønsker forbruger at køber alt i target
++ Svært når kunder har faste vaner
++ Indsamler data på alle kunder
++ Fange nye kunder ved major "life events"
+
+* Etiske elementer
+** Agent neutrale
++ Kunder spare penge
++ Kunder køber mere relevante og billigere produkter
++ Uetisk at overvåge og analysere kunderne uden at give samtykke
+
+** Agent relative
++ Personlige karriere(andrew pole) - autonom
++ Andrew pole har en etisk forpligtigelse for target
+
+* Diskussion
++ Target tjener penge på kunderne og kunderne får billigere produkter -> win Win
++ Andrew Pole har etisk pligt til at sige fra
+  + Autonome mål og begrundelser overfor etisk pligt for andre
+  + Han har et etisk ansvar for at sige fra
++ Praktisk synspunkt >< overfor hvad der er etisk korrekt
+  + Er det rimeligt at sige andrew pole gør noget forkert
+
+* Handlinger for etisk korrekthed
++ Indsaml samtykke -> pligtetik med mål og mening
++ Informer om personlige reklamer
++ Stop med at købe data - kun brug det der er givet samtykke på
++ Andrew pole burde sige fra
+
+* Microsoft
++ Nytteetisk effekt over diagnoser fra bing forudsigelser med kræft
++ Falske positiver giver trauma - mindre nytte etisk
++ Ret til ikke at blive overvåget - pligtetik
++ Ret til ikke at blive informeret over kræft

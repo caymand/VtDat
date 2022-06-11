@@ -55,6 +55,8 @@ Viden=academia
 Køb salg mellem stat og universiteter
 
 * Mode-2 videnskab
+Post-akademisk/post akademisk
+Den linære model argument for denne videnskab
 Viden bliver lavet uden for universiteter
 Viden er spereret fra academia
 Tre-enighed mellem universitet, staten og erhvervslivet
