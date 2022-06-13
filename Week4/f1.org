@@ -1,8 +1,10 @@
+-*- ispell-dictionary: "dansk" -*-
 #+title: F1
+
 * Matematisk modellering
 + Ikke alt er bevaret i en model.
 + Forskellige typer af modeller
-+ Model indganger kun noget af det man er interesseret i
++ Model indfanger kun noget af det man er interesseret i
 + Den skal gerne indfange de ting man er interesseret i
 
 Ting man skal forholde sig til ved en model

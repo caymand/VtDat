@@ -1,3 +1,4 @@
+-*- ispell-dictionary: "dansk" -*-
 #+title: Oev
 
 * Hypotetisk deduktiv
@@ -17,5 +18,5 @@ Definition af videnskab
 
 * Poper videnskab
 Definition af videnskab
-+ Det der kan falcificeres
-+ Det der kan verificeres er ikke nødvendigvis videnskab
++ Det der kan falsificeres
++ Det der kan verificeres er ikke nødvendigvis videnskab - skal også kunne falsificeres

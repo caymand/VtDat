@@ -1,3 +1,4 @@
+-*- ispell-change-dictionary: "dansk" -*-
 #+title: Kap5
 
 * Termer

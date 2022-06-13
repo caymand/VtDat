@@ -1,3 +1,4 @@
+-*- ispell-dictionary: "dansk" -*-
 #+title: F1
 
 * Kuhn
@@ -42,7 +43,7 @@
 + Turing maskine med flere bånd
 + Turing maskine har samme utryktskraft som matematisk reeasoning
 + Studer hvor svært et problem er at løse med en given turing maskine
-+ Monoparadimatisk periode
++ Mono-paradigmatisk periode
 + Ingen historie for kritiske experimenter
   + Eksempelvis har einstain ret eller ej
   + Kender vi ikke i Datalogi

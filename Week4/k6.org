@@ -1,8 +1,10 @@
+-*- ispell-dictionary: "dansk" -*-
 #+title: K6
 
-+ Ikoniske modeller
-+ Analogi-modeller
-+ Matematiske modeller
++ Ikoniske modeller - model ligner dens domæne
+  + Kunne være en model i minder størrelse
++ Analogi-modeller - model og domæne ligner ikke hinanden men der er alligvel en analogisk sammenhæng
++ Matematiske modeller - modellen er en abstrakt eller matematisk model af domænet
 + Dialektisk og iterativ matematisk modellerings-process
 + Kuhns paradigmer spiller ind i modelleringsprocess
   + Valg af hvad man idelisere

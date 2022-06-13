@@ -1,3 +1,4 @@
+-*- ispell-dictionary: "dansk" -*-
 #+title: F1
 
 * Platon
@@ -15,7 +16,7 @@ Formalvidenskab - vi har lagt alle reglerne(Helge Kragh)
 
 * Wigners mirakler
 Hvis matematikken lever i ideernes verden, hvordan kan den bruges til at beskrive naturvidenskab?
-+ Matematiske idder er noget vi har skabt helt frit, uden at tage hensyn til
++ Matematiske ideer er noget vi har skabt helt frit, uden at tage hensyn til
   mennesket kultur(social konstruktivisme)
 + Dualisme mellem det ideal og real
 
@@ -27,11 +28,11 @@ Hvordan forklarer vi hvordan matematik kan anvendes?
   A posterori
   + Går ud i verden og stille spørgsmål
 
-  Analytisk udsagn
-+ Alle unkale er ugidt
+A priori - Analytisk udsagn
++ Alle unkale er ugift
 + Hvilken betydning er indlejret i hinanden
 + Ren tautologi
-Syntatiske er alle de andre
+Syntaktiske er alle de andre
 
 Kant siger matematik er syntetisk a priori
 + Matematik handler om hvoran mennesker er i verden?
@@ -40,11 +41,11 @@ Kant siger matematik er syntetisk a priori
 Hilbert
 + 1900-tallet bliver matematisk genstandsfelt for matematik
 + Matematik bliver brugt til at studerer matematik
-+ Matematisk object er kun det vi har defineret til hvad der
++ Matematisk objekt er kun det vi har defineret til hvad der
 + Det er ligegyldigt hvad matematik studerer - det har vi selv valgt
-+ Metamisk teori om matematisk aktionssystmer -> bevisteori
++ Metamatematik teori om matematisk aktionssystmer -> bevisteori
 + Hvorfor har helge kragh ikke ret?
-+ Aktionssystemet bliver udvikler
++ Aktionssystemet bliver udviklet
 + Hilbert - finitistisk kerne
 
 Kurt göbel
@@ -70,22 +71,22 @@ Kurt göbel
 
 * Kuhn
 Sociologisk historisk synspunkt.
-Det en gruppe videnskabsmænd er fælles om er etparadigme.
+Det en gruppe videnskabsmænd er fælles om er et paradigme.
 Kunne være turingmaskinen og von-neumann arkitekturen
 
 + Nogle elementer er vigtigere end andre
-  + Dette bestemmes af en socail afgrænsning
-+ Sammenstiling af ting vi deler er et paradigme
+  + Dette bestemmes af en social afgrænsning
++ Sammenstilling af ting vi deler er et paradigme
 + Når et paradigme skfiter, så ændres verden også
   + Vores syn på verden, ændre hvordan verden er
   + Verden er som den fremstår for os
 + Paradigme er instantieret i disciplinær matrix
-  + Metafysisk - specille måder at tænke om paradigmet ude fra. Analogier set udefra
-  + symbolske generalisering
+  + Metafysisk - specielle måder at tænke om paradigmet ude fra. Analogier set udefra
+    + delte overbevisninger indenfor paradigmet som paradigmet er forpligtet på
   + værdier - det der binder større videnskabeligt samfund sammen
     + Hvor vigtigt er det teorien kan forklare noget
     + Det skal deles i paradigmet
-  + Exsemplarer - vilke lærebøger, problemer, teknikker osv.
+  + Eksemplarer - hvilke lærebøger, problemer, teknikker osv.
   + Symbolske generaliseringer - basale udsagn der ligner naturlove, men er definitioner
     + Kunne være asymptotisk notation
 
@@ -112,7 +113,7 @@ bare ved
 + To paradigmer sammen - overvej om der er noget mellem disciplinerne
 
 * Hvad er paradigmer
-+ Paradigmer og disciplinære matricer kan bruges til at indfange en gruppe videnskabsfolker.
-+ Paradigmet er en socilogisk process gennem disciplinering
++ Paradigmer og disciplinære matricer kan bruges til at indfange en gruppe videnskabsfolk
++ Paradigmet er en sociologisk proces gennem disciplinering
 + Paradigmer skifter over tid men langsomt. Hold fast i grundprincipper indtil
   skift/revolution. Derfor er der usammenlignelighed til stede

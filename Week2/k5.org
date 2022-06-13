@@ -1,5 +1,7 @@
+-*- ispell-dictionary: "dansk" -*-
 #+TITLE: K5
 
-+ Formalistisk
-+ Ingeniør-centreret
-+ Humanistisk
++ Formalistisk - software handler om matematiske objekter
+  + Matematiske metoder skal bruges
++ Ingeniør-centreret - brug af produktionsprocesser og workflow modeller(kendt fra mekaniske fabrikekr)
++ Humanistisk - software handler om de sociale interaktioner der sker undervejs i udvikling

@@ -1,16 +1,34 @@
+-*- ispell-dictionary: "dansk" -*-
 #+title: K3
 
-+ Socio-teknisk object
-+ Agens
-+ Kontrolstruktur
++ Socio-teknisk objekt - teknologi påvirker social reaktioner
++ Agens - tillægge selvstændig handling til genstand (algoritmer)
++ Kontrolstruktur - kontroleret række handlinger der skal udføres
 + Mekanisk
-+ Matematikfilosofisk
-+ Formalisering og aksiomatisering
-+ Aksiomssystmer
-+ Ideale elementer
-+ Konservative udvidelser
++ Matematikfilosofisk - Beviser set som tidsløse sandhedsgaranter
++ Formalisering og aksiomatisering - opstille aksiomsystemer hvori alt er givet gennem aksiomer
++ Aksiomssystmer - alt mening er givet gennem aksiomer i systemer
+  + Aksiomerne er så givet til at være sande
+  + Gödel viste at det og beregne et tal er det samme som at afklare beviselighed af propositioner
++ Ideale elementer - de tilføjer ikke modstrid og man kan derfor sikre matematikken(forklare den)
+  + Konservative udvidelser
 + Finitister
 + Finitisme
 + Mekanisk
 + Hilbert >< Gödel
-+ Monoparadimatisk
+  + Hilbert - matematik skal opbnå absolut sikkerhed som formaliceret sprog
+    + Atomare operationer i den endelige aritmetik er sikker
+  + Gödel viser at ethvert aksiomsystem der indeholder de naturlige tal og er konsistent vil være ufuldstændigt og der vil altid være mere der ikke kan vises
++ Analytisk - udsagn hvori det der siges noget om er bevist i udsagnet
++ Syntetisk - udsagn der ikke er analytiske
++ Syntaktisk - udsagn i kraft af deres form
++ Semantisk - udsagn i kraft af deres mening
++ Monoparadimatisk/mono-paradigmatisk videnskab - normalvidenskab indenfor et paradigme
+
+|-----------+----------+------------|
+|           | a priori | a posteori |
+| analytisk | hume     |            |
+| syntetisk | kant     | mill       |
+|-----------+----------+------------|
+Noget kan ikke være analytisk og a posteori
++ Skyldes at når noget er a posteori så er det af erfaring, mens sandheden af et analytisk udsagn er i udsagnet selv
