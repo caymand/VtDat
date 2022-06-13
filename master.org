@@ -1,0 +1,33 @@
+-*- ispell-dictionary: "dansk" -*-
+#+title: Master
+
++ A priori
++ A posteori
++ Paradigme
+  + Metafysisk
+  + Symbolske generaliseringer
+  + Værdier
+  + Eksemplarer
+  + Symbolske generaliseringer
++ Disciplinær matrix
++ inkommensurabilitet
++ Normalvidenskab
++ Socio-teknisk objekt
++ Agens
++ Kontrolstruktur
++ Mekanisk
++ Matematikfilosofisk
++ Formalisering og aksiomatisering
++ Aksiomsystemer
++ Ideale elementer
++ Hilbert
++ Gödel
++ Analytisk udsagn
++ Syntetisk udsagn
++ Syntaktisk udsagn
++ Semantisk udsagn
++ Finitisme
++ Hypotetisk deduktiv
++ Falsificering
++ Finetistisk kerne
++ Matematikken er konsistent
