@@ -51,4 +51,26 @@
 + Analogi modeller
 + Matematiske modeller
 + Dialektisk og iterativ modellering
-+
++ Data som kommunikationsprocess
++ Induktionsproblemet - humes problem
++ Korrelationsproblemet
++ Lucas problemet
++ Deskriptiv etik
++ Naturalistisk fejlslutning
++ Normativ etik
++ Nyttetik
++ Utilitarisme
++ Juridisk vakuum
++ Samvittighedskvaler
++ Maksime
++ Intrinsisk gode
++ Regelutilitarisme
++ Handlingsutilitarisme
++ Pligtetik
++ Deontologi
++ Kategoriske imperativ
++ Praktiske imperativ
++ Agentneutrale værdier
++ Agentrelative værdier
++ Autonome værdier
++ Deontrologiske værdier

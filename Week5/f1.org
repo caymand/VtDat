@@ -15,8 +15,7 @@
 * ML modelleringer og sorte kasser
 + Sort kasse -> indeholder algoritme
 + Kritik af ML handler om valg eller bias i træningsdata
-+ Model agnostic - spørger ikke om de betydning af enkelte dele af modellen
-  + Efterspørger kun svar
++ Model agnostic - spørger ikke om de betydning af enkelte dele af modellen mem efterspørger kun svar
   + Local - model intrepretability
   + Global - lav beslutningstræ. Kan gøre ved dimensions reduktion
 + Model-specific

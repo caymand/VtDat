@@ -1,23 +1,40 @@
+-*- ispell-dictionary: "dansk" -*-
 #+title: K1
 * Begreber
-+ Deskriptiv etik
-+ naturalistiske fejlslutning
-+ Normativ etik
-  + Nyyeetik
-  + Utilitarisme
-+ Juridiske vakuum
-+ Samvittighedskvaler
++ Deskriptiv etik - de etiske valg folk siger de vil foretage i virkeligheden
++ naturalistiske fejlslutning - det at folk handler på en bestemt måde betyder ikke at de handler rigtigt
++ Normativ etik - undersøgelsen, forsikning og teorierne omkring hvordan folk burde opfører sig
+  + Nyttetik - normativt etik med udgangspunkt i lykke maksimerende
+  + Utilitarisme - Hvilke konsekvenser har en handling og gør de handlinger der maksimerer lykken
++ Juridiske vakuum - ting der er etisk ukorrekte og endnu ikke ulovlige
++ Samvittighedskvaler - lovlig handling der er etisk ukorrekt
 + Intrinsisk gode
+  + Nyttetikeren forsøger at optimerer lykken
+  + Dette er en intrinsisk gode fordi nytteoptimerign er godt i sig selv
 + Regelutilitarisme
+  + Ser på generelle handlingskategorier
+  + Er det generelt nytte maksimerende at bruge børn til forsøg
 + Handlingsutilitarisme
+  + Ser på enkelte handlinger og om de i isolation maksimerer lykken
 + Pligtetik/deontologien
+  + Kant
+  + Bedømmer om handlinger er etiske korrekte ud fra om handlingen i sig selv er god og ikke dens konsekvenser
+  + Ofte ser man på om handlingen er i overenstemmelse med et sæt givne regler
 + Kategoriske imperativ
+  + Måde man skal opfører sig på til enhver tid ligegyldigt hvad
+  + Handl kun ifølge den maksime ved hvilken du samtidig kan ville, at den bliver en almengyldig lov
+  + Når man udfører en handlings skal man først finde ud af hvilket handlingsprincip(maksime) det tilhører for derefter at se omd et er etisk korrekt at udføre
+  + Giver dermed forbud på bestemter handlingstyper
 + Praktiske imperativ
+  + /Handl således, at du altid tillige behandler menneskeheden, såvel i din egen person som i enhver andens person, som mål og aldrig blot som middel/
+  + Man må derfor adlrig udnyttes af andre, selvomd det ville være for alle folkets bedste
 + Agenteutrale værdier
-+ Agentrelative værdier
-+ Agentrelative + deontologiske værdier
-+ Agentrelative + autonome værdier
-+ Kontekstuel integritet
+  + Værdier der generelt bør fremmes
+  + Knyttes ikke til bestemt personligt perspektiv, men deles generelt
++ Agentrelative værdier - knyttet til en individs unikke perspektiv
++ Agentrelative + deontologiske værdier - begrundelser der tager ret i at andre ikke må behandles dårligt
++ Agentrelative + autonome værdier - tager fat i vores egne livsprojekter
++ Kontekstuel integritet - ret til at bestemme hvem der ved hvad om os
 + Uvidenhedens slør
 + Udskiftbar
 +

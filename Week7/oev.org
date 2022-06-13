@@ -1,3 +1,4 @@
+-*- ispell-dictionary: "dansk" -*-
 #+title: Oev
 
 * Utility >< konsekvens

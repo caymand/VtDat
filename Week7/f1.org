@@ -1,3 +1,4 @@
+-*- ispell-dictionary: "dansk" -*-
 #+title: Opsamling
 
 * Videnskabelige metoder
@@ -12,7 +13,7 @@
 + Duhen-quine tesen
   + selv hvis vi får falsificeret, hvilken hypotese er så falskt?
   + Udstyr med mere er jo en del af hypotesen
-+ Kun er også en regress - når teorien er falsificeret, hvad skal vi så holde fast i?
++ Kuhn er også en regress - når teorien er falsificeret, hvad skal vi så holde fast i?
   + Kuhn siger det ikke er viden men en social konstruktion man er enig om
   + kuhn er et svar på poppers problem med hvad man gør når man skal ændre hypotesen
 + Paradigmer og disciplinær matrix
