@@ -1,44 +1,43 @@
+ -*- ispell-dictionary: "dansk" -*-
 #+title: F2
 
 Computeren er redskab til at teste teorier i datalogi
++ Del af datalogiens genstandsfelt
 
 * Kudos/cudos
 Kudos - giv videnskab penge og videnskab giver nyttigt til samfundet
 
 * Den lineære model
-+ Skridder et skridt af gangen
-+ Samlebpndsmodellen
++ Et skridt af gangen
++ Samlebåndsmodellen
 + Hvert skridt følger naturligt hinanden
 + Innovation fase
   + Mere kompleks end den linære model antyder
   + Videnskabelse
-+ Entrpenør fase
++ Entrepenør fase
   + Værdiskabelse
 + Hvad har ansvaret for hvad der blev produceret
 
 * Stokes kvadrantmodel
-Fire kvadranter
+Fire kvadranter (anvendelse, grundlæggende viden)
 + Ren grundvidenskab - Bohr kvadant
 + Ren anvendelse - edison
 + Blanding af de ovestående - Pasteur
 + Ingen af delene
++ Formålsdimension -  Hvad er motivation for at gøre det
+  + Bohr gør det for interessen
+  + Edison gør det for at tjene penge
+  + Brugt som kritik af den linære model
++ Temporal(tidslig) dimension
+  + Først grundforskning dernest anvendelse i den lineære model
++ Kausal dimension
+  + Det ene skridt i den lineære model fortsætter af den anden
++ Epistemologisk dimension
+  + Grundvidenskab - hvad er interessant. Hvad er sandhed
+  + Teknologisk - hvad kan bruges. Pragmatisk. Handlingsorienteret.
+  + To forskellige epistemologier - erkendelser
++ Også dårligt, for når vi laver grundvidenskab er der også et pragmatisk aspekt over hvorfor vi forsker
 
-* Formålsdimension
-+ Hvad er motivation for at gøre det
-+ Bohr gør det for interessen
-+ Edison gør det for at tjene penge
-+ Brugt som kritik af den linære model
-
-* Temporal(tidslig) dimension
-
-* Kausal dimension
-
-* Epistemologisk dimension
-+ Grundvidenskab - hvad er interessant. Hvad er sandhed
-+ Teknologisk - hvad kan bruges. Pragmatisk. Handlingsorienteret.
-To forskellige epistemologier - erkendelser
-
-Også dårligt, for når vi laver grundvidenskab er der også et pragmatisk aspekt over hvorfor vi forsker i det.
 
 * Teknologiske systemer
 Teknologier skaber de samfund og strukturer de indgår i.
@@ -51,9 +50,8 @@ Teknologier skaber de samfund og strukturer de indgår i.
 
 Ændring af et hjørne af netværket vil påvirke alle andre hjørner.
 * Eksempel
-Computeren er ikke en prædetermineret process.
-Den er åben for en masse valg. Som hugh også sagde - den er social konstrueret og kan ændre.
-
+Computeren er ikke en prædetermineret process(som den linære model siger).
+Den er åben for en masse valg. Som hugh også sagde - den er social konstrueret og kan ændres.
 Det er ikke en teknologisk determinisme at computeren ville blive mindre og at vi får PC.
 
 ** Elementer
@@ -70,7 +68,8 @@ Betragt ikke teknologi som artefakter, men systemer der er forbundne
 + Ikke bare artefakter
 + Heterogent netværk
 + Forskellige noder i netværket kan antage forskellige roller
-  + Translation - nogle hjørner kan være repræsentanter for noget. Industristandarder
+  + Translation - nogle hjørner kan være repræsentanter for noget.
+  + Industristandarder
 
 + Konservativ opfindelse
   + Små forbedringer
@@ -82,5 +81,5 @@ Betragt ikke teknologi som artefakter, men systemer der er forbundne
   + Radikale teknologier
   + Så radikalt forandrede at hele verdenssynet forandres
 
-Er det ekperimentet der viser en virkelighed eller er det arparatet der måler forkert. Valget er social konstruktivistisk.
-Videnskab er en process hængt op på mennesker og ikke en ekstern virkelighed. Indvening mod popper og logisk positivister.
+Er det eksperimentet der viser en virkelighed eller er det apparatet der måler forkert. Valget er social konstruktivistisk.
+Videnskab er en proces hængt op på mennesker og ikke en ekstern virkelighed. Indvending mod popper og logisk positivister.

@@ -1,3 +1,4 @@
+ -*- ispell-dictionary: "dansk" -*-
 #+title: Kap1
 * Termer
 + Deskriptiv
@@ -5,27 +6,37 @@
 + Dateringer
 + Softwarekenstandsfeltrise
 + Ontologi - objekter
-+ erkendelsesmåde/epistemologi
-+ Genstandtfelt - deres objekter
-+ Realvidenskab
-+ Aposteriori viden
-+ Induktiv
-  + Partikulært til generelt
-+ Formalvidenskab
-+ Deduktiv
-  + Generelt til partikulært
-+ a priori
+  + Et genstandsfelts objekter
++ erkendelsesmåde - epistemologi
+  + Erkendelseslære
++ Genstandsfelt
+  + Computeren er en del datalogiens genstandsfelt
+  + En gruppering af objekter typisk for en videnskab(paradigme i kuhns optik)
++ Realvidenskab - videnskab der altid har været der uden for opfindelse
++ Aposteriori viden - erfaringsbaseret viden
+  + Vidensproduktion er baseret på erfaringer
++ Induktiv - partikulært til generelt
++ Formalvidenskab - noget vi har opfundet.
+  + Udsagn kan bevises med absolut sikkerhed
++ Deduktiv - Generelt til partikulært
++ a priori - kommer forud for erfaringer
+  + Typisk for formalvidenskaben
 + Inter subjektive
+  + Når eksperimenter er en idealiseret manipulation af verden, som kan genskabes
 + Natur og naturprocesser
 + Social systemer
 + Kultur og kulturprodokter
 + Induktiv slutning
 + Logisk positivisme
 + Induktionsproblemet
-+ Rgres
-+ Hypotetisk deduktiv metode
++ Regres - uendelig gentagen afhængighed uden uafhængig grund
+  + Opstår blandt andet når man uden grund slutter sig fra fortid til fremtid
++ Hypotetisk deduktiv metode - poppers metode
 + Experimenters regress
-+ Duhem quine tesen
+  + Hvordan kan man vide om et eksperiment er lykkedes når man ikke kender det rigtige svar
++ Duhem quine tesen - en tese eller eksperiment fejler ikke i isolation
+  + Det kan være udstyret der svigter, og det ved vi ikke
+  + Man tester et antal af hypoteser samtidigt - modstrid med popper
 + Demarkrationsproblemet
 + Kvantitativ
 + Kvalitativ

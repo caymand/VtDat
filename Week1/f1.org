@@ -1,5 +1,7 @@
+ -*- ispell-dictionary: "dansk" -*-
 #+title: F1
-* Helge Kragh
+
+* Helge Kragh<
 Interlektuel social process. Stræber mod at gøre:
 + offentlige
 + fejlbarlig - mulig den er forkert
@@ -20,7 +22,7 @@ Anden forklaring
 ** Realvidenskab
 + Studerer noget der er derude
 + Fysisk virkelighed - noget der er der om vi observerer det eller ej
-+ Fænermæner
++ Fænomener
 + Laver induktiv slutning
 ** Formalvideskab
 + Det er os der har skabt
@@ -29,8 +31,6 @@ Anden forklaring
 + formelle systemer vi har defineret og givet egenskaber
 + Referer ikke til noget i verden
 + Muligt at lave deduktiv slutning - deduktivt bevist
-
-
 
 ** Evidens
 + Lokal empirisk viden til teoretisk synspunkt
@@ -41,13 +41,13 @@ Anden forklaring
 For Peter Naur er computeren ikke et genstandsfelt i datalogi men et redskab
 
 * Demarkationsproblemet
-Finde ud af om noget et videnskab eller ej
-Astronomi <> astrologi (not a monoid)
-+ Astrologi er ikke videnskab
-+ Astronomi er videnskab
++ Finde ud af om noget et videnskab eller ej
++ Astronomi >< astrologi er eksempel på problemet
+  + Astrologi er ikke videnskab
+  + Astronomi er videnskab
 
 Demarkration - adskillelse
-Hvornår adskille man videnksab fra ikke videnskab
++ Hvornår adskiller man videnskab fra ikke videnskab(men måske noget der ligner videnskab)
 
 * Mode-1 videnskab
 Viden bliver lavet på universiteter
@@ -59,4 +59,5 @@ Post-akademisk/post akademisk
 Den linære model argument for denne videnskab
 Viden bliver lavet uden for universiteter
 Viden er spereret fra academia
++ Viden laves uden fra universiteter?
 Tre-enighed mellem universitet, staten og erhvervslivet
