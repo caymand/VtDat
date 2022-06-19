@@ -1,6 +1,32 @@
 -*- ispell-dictionary: "dansk" -*-
 #+title: Master
-
++ Helge Kragh 1
+  + Offentlig
+  + Fejlbarlig
+  + Korrigerbar
+  + Testbar
++ Helge kragh 2
+  + Forhåndsværende
+  + Foreløbig
+  + Kan kritiseres
+  + Kan forbedres
++ Realvidenskab
++ Formalvidenskab
++ Evidens
++ Demarkationsproblemet
++ Mode 1 videnskab
++ Mode 2 videnskab
++ Post akademisk
++ Den linære model/samlebåndsmodellen
++ Stokes kvadrantmodel
+  + Grundvidenskab
+  + Anvendelse
+  + Blanding
+  + Ingen af delene
+  + Formålsdimension
+  + Temporal dimension
+  + Kausal dimension
+  + Epistemologisk dimension
 + A priori
 + A posteori
 + Paradigme
@@ -8,7 +34,24 @@
   + Symbolske generaliseringer
   + Værdier
   + Eksemplarer
-  + Symbolske generaliseringer
++ Transparadigmatiske værdier
++ Revolution
++ Teknologiske systemer
++ Deskriptiv
++ Normativ
++ Genstandsfelt
++ Induktiv slutning
++ Deduktiv slutning
++ Regres
++ Experimenters regress
++ Duhem-Quine-tese
++ Kvalitativ
++ Kvantitativ
+xb+ Formalistisk software
++ Ingeniør centreret software
++ Humanistisk software
++ Social-konstruktivisme
++ Aktiomssystmer
 + Disciplinær matrix
 + inkommensurabilitet
 + Normalvidenskab
@@ -22,6 +65,7 @@
 + Ideale elementer
 + Hilbert
 + Gödel
++ Hartmanis
 + Analytisk udsagn
 + Syntetisk udsagn
 + Syntaktisk udsagn
@@ -34,6 +78,8 @@
 + Cudos
   + Communalism
   + Universality
+  + Disinterestedness
+  + Originality
 + Lukket system
 + Åbent system
 + Epistemologi
@@ -42,6 +88,7 @@
 + Secrecy
 + Fænomenetisk model
 + Teoretisk model
++ Metafysisk argument
 + Idealisering
 + Abstraktion
 + Pragmatik
