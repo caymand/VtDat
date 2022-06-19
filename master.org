@@ -47,7 +47,7 @@
 + Duhem-Quine-tese
 + Kvalitativ
 + Kvantitativ
-xb+ Formalistisk software
++ Formalistisk software
 + Ingeniør centreret software
 + Humanistisk software
 + Social-konstruktivisme
@@ -80,6 +80,7 @@ xb+ Formalistisk software
   + Universality
   + Disinterestedness
   + Originality
++ Place
 + Lukket system
 + Åbent system
 + Epistemologi
@@ -115,6 +116,7 @@ xb+ Formalistisk software
 + Handlingsutilitarisme
 + Pligtetik
 + Deontologi
++ Regeletik
 + Kategoriske imperativ
 + Praktiske imperativ
 + Agentneutrale værdier
