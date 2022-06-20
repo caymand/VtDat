@@ -1,0 +1,140 @@
+-*- ispell-dictionary: "dansk" -*-
+#+title: Master Solutions
+#+title: Master
++ Helge Kragh 1 - definerer hvd videnskab er
+  + Offentlig
+  + Fejlbarlig
+  + Korrigerbar
+  + Testbar
++ Helge kragh 2
+  + Forhåndsværende
+  + Foreløbig
+  + Kan kritiseres
+  + Kan forbedres
++ Realvidenskab - Studerer fænomener der er i verden uafhængigt af os
++ Formalvidenskab - Studerer formelle systemer vi har opfundet
+  + Et udsagn kan altid bevises med absolut sikkerhed
++ Evidens - lokal emperisk viden (indenfor paradigme muligvis)
++ Demarkationsproblemet - Ting der ligner videnskab men ikke er det
+  + Popper løser det ved at sige at videnskab skal kunne falsificers
++ Mode 1 videnskab - videnskab produceres på universiteterne
+  + Staten skal bare give videnskaben penge og så vil universitetne naturligt producerer brugbar viden
++ Mode 2 videnskab - viden produceres udenfor universitetne
+  + Post akademisk videnskab
+  + Nu er det en treenighed mellem stat, universitetne, erhverv
++ Post akademisk
++ Den linære model/samlebåndsmodellen - viser hvorda grundviden naturligt oversættes til brugbare viden i erhver
+  + Hver skridt følger naturligt hinanden
+  + Innovation og entreprenør fase
++ Stokes kvadrantmodel - alternativ til den lineære moedel
+  + Grundvidenskab
+  + Anvendelse
+  + Blanding
+  + Ingen af delene
+  + Formålsdimension
+  + Temporal dimension
+  + Kausal dimension
+  + Epistemologisk dimension
++ A priori - viden hvor svaret på udsagn ligger i selve udsagnet
+  + Alle ungkarle er gifte
++ A posteori - viden der er erfaringsbaseret
++ Paradigme - også en slags model for hvordan viden bliver produceret
+  + Metafysisk
+  + Symbolske generaliseringer
+  + Værdier
+  + Eksemplarer
++ Transparadigmatiske værdier - viden der alligevel godt kan gå på tværs af paradigmer
+  + Bløder revolutionsdelen op
+  + Noget der måske er større end selve paradigmet
++ Revolution - efter nok anomalier i et paradigmer sker der revolution og man forkaster det gamle paradigme
++ Teknologiske systemer - måden at se teknologi som et netværk hvor en ændring i et hjørne af netværket vil påvirke hele netværket
++ Deskriptiv - beskrivende, altså hvad vi rent faktisk gør
++ Normativ - hvad vi burde gøre og styret af normer
++ Genstandsfelt - gruppering af objekter inden for en videnskab(paradigme måske også)
+  + Datalogi har mangele objekter, og computere er en del af dens genstands felt
++ Induktiv slutning - går fra det partikulære til det generelle
++ Deduktiv slutning - går fra det partikulære til det generelle
++ Regres - uendelig afhængigheder uden uafhængig fast grund
++ Experimenters regress - hvordan kan vi vide om eksperimentet var en success hvis vi ikke kend er det rigtige svar
++ Duhem-Quine-tesen - Man kan ikke teste en hypotest i isolation
+  + Man skal se det at teste en hypotese som at teste en række hypoteser
+  + Den egentlige hypotese testes sammen med hypotesen om at målings apparatet også virker rigtigt
+  + Hvis en af hypoteserne fejler så kan hele hypotesen fejle
++ Kvalitativ
++ Kvantitativ
++ Formalistisk software
++ Ingeniør centreret software
++ Humanistisk software
++ Social-konstruktivisme
++ Aktiomssystmer
++ Disciplinær matrix
++ inkommensurabilitet
++ Normalvidenskab
++ Socio-teknisk objekt
++ Agens
++ Kontrolstruktur
++ Mekanisk
++ Matematikfilosofisk
++ Formalisering og aksiomatisering
++ Aksiomsystemer
++ Ideale elementer
++ Hilbert
++ Gödel
++ Hartmanis
++ Analytisk udsagn
++ Syntetisk udsagn
++ Syntaktisk udsagn
++ Semantisk udsagn
++ Finitisme
++ Hypotetisk deduktiv
++ Falsificering
++ Finetistisk kerne
++ Matematikken er konsistent
++ Cudos
+  + Communalism
+  + Universality
+  + Disinterestedness
+  + Originality
++ Place
++ Lukket system
++ Åbent system
++ Epistemologi
++ Algorithms in culture
++ Algorithms as culture
++ Secrecy
++ Fænomenetisk model
++ Teoretisk model
++ Metafysisk argument
++ Idealisering
++ Abstraktion
++ Pragmatik
++ Post normal viden
++ Correlation does not imply causation
++ Ikoniske modeller
++ Analogi modeller
++ Matematiske modeller
++ Dialektisk og iterativ modellering
++ Data som kommunikationsprocess
++ Induktionsproblemet - humes problem
++ Korrelationsproblemet
++ Lucas problemet
++ Deskriptiv etik
++ Naturalistisk fejlslutning
++ Normativ etik
++ Nyttetik
++ Utilitarisme
++ Juridisk vakuum
++ Samvittighedskvaler
++ Maksime
++ Intrinsisk gode
++ Regelutilitarisme
++ Handlingsutilitarisme
++ Pligtetik
++ Deontologi
++ Regeletik
++ Kategoriske imperativ
++ Praktiske imperativ
++ Agentneutrale værdier
++ Agentrelative værdier
++ Autonome værdier
++ Deontrologiske værdier
