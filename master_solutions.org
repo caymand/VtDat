@@ -62,79 +62,103 @@
   + Hvis en af hypoteserne fejler så kan hele hypotesen fejle
 + Kvalitativ
 + Kvantitativ
-+ Formalistisk software
-+ Ingeniør centreret software
-+ Humanistisk software
-+ Social-konstruktivisme
-+ Aktiomssystmer
-+ Disciplinær matrix
-+ inkommensurabilitet
-+ Normalvidenskab
-+ Socio-teknisk objekt
-+ Agens
-+ Kontrolstruktur
-+ Mekanisk
-+ Matematikfilosofisk
-+ Formalisering og aksiomatisering
-+ Aksiomsystemer
-+ Ideale elementer
-+ Hilbert
-+ Gödel
-+ Hartmanis
-+ Analytisk udsagn
-+ Syntetisk udsagn
-+ Syntaktisk udsagn
-+ Semantisk udsagn
-+ Finitisme
-+ Hypotetisk deduktiv
-+ Falsificering
-+ Finetistisk kerne
-+ Matematikken er konsistent
-+ Cudos
-  + Communalism
-  + Universality
-  + Disinterestedness
-  + Originality
++ Formalistisk software - software handler om matematiske objekter
++ Ingeniør centreret software - software udføres via produktionsprocesser og workflow modeller
+  + Låner inspeiratin fra mekanisk software ingeniør
++ Humanistisk software - software handler om mesnnesker og deres sociale konstruktioner
++ Social-konstruktivisme - ting er hvad vi definere dem til at være
++ Aktiomssystmer - basale antagelser vi tror p
+  + Dette der kan bryde en regeress
+  + Indenfor matematik er der aktiomssystemer til at vise at matematik er /konsistent/
++ Disciplinær matrix - måden et paradigme bliver instantieret. Den har fire dimensioner
+  + Metafysiske
+  + Værdier
+  + Eksemplarer
+  + Symbolske generaliseringer
++ inkommensurabilitet - usammenlignelighed. To paradigmer kan ikke sammenlignes, da de ikke deler samme teorier og værdier
++ Normalvidenskab - vidensproduktion inden for et paradigme
++ Socio-teknisk objekt - teknik påvirker sociale relationer
++ Agens - algoritmer kan ses som et socio-teknisk objekt der påvirker sociale rlationer, og algoritmen yder altså agens ved den har "selvstændig" handling
++ Kontrolstruktur - Kontrolleret rækker handlinger
+  + Algoritmer har en kontrolstruktur
++ Mekanisk - noget der kan udføres uden rigtig og tænke og er kontrolleret
++ Matematikfilosofisk - prøver at bevise matematik er konsistent og derved en tidsløs garanti (lidt i tvivl - undersøg mere)
++ Formalisering og aksiomatisering - Hilbert ønskede at formalisere og aktiomatisere matematikken for at bevise den er konsistent. Alt er givet gennem aksiomer.
+  + Man kan bevise ting om matematikken selv på denne måde
++ Aksiomsystemer - system hvor alt mening er givet gennem dets aksiomer
++ Ideale elementer - elementer der kunne tilføjes til aksiomsystemet uden at give modstrid
++ Hilbert - ønskede at vise at matematikken var konsistent
++ Gödel - viser at der altid er noget matematikken ikke kan bevise
++ Hartmanis - Udvider turing maskinen med flere bånd for at finde asymptotisk notation
++ Analytisk udsagn - det der siges noget om er bevist i udsagnet. Alt mening er givet i udsagnet
+  + Apriori udsagn
+  + Alle ungkarle er ugifte - udsagnet
+  + Prædikatet er indeholdet for subjektet
++ Syntetisk udsagn - aposteori udsagn.
+  + Meningen med udsagnet er altså ikke givet af af selve udsagnet
+  + Det modsatte af analytiske udsagn
+  + Udsagn er sande i forhold til verden, dermed kan beviset for udsagnet ikke være i selve udsagnet
++ Syntaktisk udsagn - udsagn i kraft af deres form==hvad fuck vil det sige?==
++ Semantisk udsagn - udsagn i kraft af deres mening==igen hvad fuck?==
++ Finitisme - finit klar bund
++ Hypotetisk deduktiv - poppers metode omkring falsificering
++ Falsificering - prøv at gendrive din hypotese
++ Finetistisk kerne - fast kerne vi tror på
++ Matematikken er konsistent - ==hvad?==
++ Cudos - videnskab produceres frit tilgængeligt opå universiteterne og er offentlig
+  + Communalism - Videnskab skal være offentlig
+  + Universality - Videnskab skal være universelt gældende og ikke afhænge af videnskabsmænd. Ingen må heller udelukkes fra det videnskabelige samfund
+  + Disinterestedness - Egne interesse må ikke påvirke den videnskabelige process
+  + Originality - Resultater skal overlades til det videnskabelige samfuns kritik
 + Place
-+ Lukket system
-+ Åbent system
-+ Epistemologi
-+ Algorithms in culture
-+ Algorithms as culture
+  + Proprietary - videnskaben er eget af virkesomhed eller universitet
+  + local - vidensproduktione er lokal for at løse et specifikt problen
+  + Authority - Den er autoritær da nogen over videnskabsmanden bestemmer fokus
+  + Expert - Forskeren er ekspert for at løse et problem og er modsat cudos ikke drevet af at løse problemer
++ Lukket system - system hvor vi har udelukkende har lagt reglerne og vi kan bevise udsagn med absolut sikkerhd
++ Åbent system - Den virkelige verden hvor vi ikke kan bevise udsagn med absolut sikkerhed
++ Epistemologi - erkendelseslære. Viden omkring hvordan vi erkender(opfatter) verden
++ Ontologi - viden omkring det verden består af
++ Algorithms in culture - Algoritme er afgrænset fra samfund i vi påvirker algoritmen og den påvirker os(den har agens)
++ Algorithms as culture - algoritmer kan ikke adskilles fra kultur, men er den del af den. Samtidigt er algoritmen ikke en genstand, men hvad vi mennesker gør den til
 + Secrecy
-+ Fænomenetisk model
-+ Teoretisk model
-+ Metafysisk argument
-+ Idealisering
-+ Abstraktion
-+ Pragmatik
-+ Post normal viden
++ Fænomenetisk model - data drevene modeller som ML.
++ Teoretisk model - modeller der studerer det vi ved burde ske som newtons mekanik
++ Metafysisk argument - argument basseret i den overbevisning der er delt af et paradigme
+  + Hilbert mente verden var beskrevet af matematik - metafysisk argument fra hans paradigme
++ Idealisering - Del af modeludvikling for at forstå verden hvor man ser på den ideelle verden
+  + Bedste modeller af modstand bruger vand i stedet for luft
++ Abstraktion - Fjerner ting for at få modellen til at passe
++ Pragmatik - Der er måske manglende teknologier der gør man bliver nødt til at indrette en model på en speciel måde
++ Post normal viden - viden der er blevet produceret uden for universitet. Mode 2 vidensproduktion
 + Correlation does not imply causation
-+ Ikoniske modeller
-+ Analogi modeller
-+ Matematiske modeller
-+ Dialektisk og iterativ modellering
-+ Data som kommunikationsprocess
-+ Induktionsproblemet - humes problem
-+ Korrelationsproblemet
-+ Lucas problemet
-+ Deskriptiv etik
-+ Naturalistisk fejlslutning
-+ Normativ etik
-+ Nyttetik
-+ Utilitarisme
-+ Juridisk vakuum
-+ Samvittighedskvaler
-+ Maksime
-+ Intrinsisk gode
-+ Regelutilitarisme
-+ Handlingsutilitarisme
-+ Pligtetik
-+ Deontologi
-+ Regeletik
-+ Kategoriske imperativ
-+ Praktiske imperativ
-+ Agentneutrale værdier
-+ Agentrelative værdier
-+ Autonome værdier
-+ Deontrologiske værdier
++ Ikoniske modeller - modellen ligner dens domæne, såsom et modelfly
++ Analogi modeller - modeller der ikke ligner deres domæne men alligevel kan bruges
++ Matematiske modeller - modellen er blevet så abstrakt at det er en matematisk model af domænet
++ Dialektisk og iterativ modellering - modellen er udviklet over flere iterationer(iterativ) og der kommunikation mellem de forskellige stadier ud fra hvad der er muligt
++ kommunikationsprocess - model er en kommunikation mellem mennesker
++ Induktionsproblemet - humes problem. Der er en regres i at tilslutte noget der er baseret på det vi så tidligere, siden der ikke er en fast finit kerne
++ Korrelationsproblemet - kausualitet giver ikke korrelation
++ Lucas problemet - modeller påvirker faktisk fremtid
++ Deskriptiv etik - det mennesker siger de gør
++ Naturalistisk fejlslutning - det at folk handler på en bestemt måde gør det ikke etisk korrekt
++ Normativ etik - Det som Kant og nagel laver. Forskning om måden vi burde handle på
++ Nyttetik - utilitaristisk etik om at maksimere nytte i verden
++ Utilitarisme - nyttemaksimering
++ Juridisk vakuum - etisk forket men endnu ikke etisk forkert
++ Samvittighedskvaler - når man har gjort noget der er lovligt men etisk forkert
++ Maksime - handlingsprincip
++ Intrinsisk gode - ting der er gode i sig selv. Lykke er herunder
++ Regelutilitarisme - Handler om at maksimere lykke inden for et sæt af regler som er etisk gode.
+  + Det er som regel ikke en god handling og misbruge børnehjemsbørn
+  + Man maksimere lykke inden for et sæt af regler der er etisk gode
++ Handlingsutilitarisme - ser på den enkelt handling i isolation og om den er lykkemaksimerende
++ Pligtetik - deontologi(kant), og handler om intensionen bag handlingen
++ Deontologi - kan, pligtetik
++ Regeletik - pligtetik
++ Kategoriske imperativ - måde at teste om en etisk handling er god
++ Praktiske imperativ - anden version af kants kategoriske imperativ, men er lige så gældende
++ Agentneutrale værdier - etiske handler som er generelt gode for alle
++ Agentrelative værdier - blanding af retten til at blive behandlet ordentligt og egne livsprojekter
++ Autonome værdier - egne livsprojekter
++ Deontrologiske værdier - retten til at blive behandlet ordentligt

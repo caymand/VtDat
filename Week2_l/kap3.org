@@ -3,7 +3,7 @@
 
 + Socio-teknisk objekt - teknologi påvirker social reaktioner
 + Agens - tillægge selvstændig handling til genstand (algoritmer)
-+ Kontrolstruktur - kontroleret række handlinger der skal udføres
++ Kontrolstruktur - kontrolleret række handlinger der skal udføres
 + Mekanisk
 + Matematikfilosofisk - Beviser set som tidsløse sandhedsgaranter
 + Formalisering og aksiomatisering - opstille aksiomsystemer hvori alt er givet gennem aksiomer
