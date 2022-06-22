@@ -1,6 +1,9 @@
 -*- ispell-dictionary: "dansk" -*-
 #+title: Master Solutions
 #+title: Master
++ Konnektionismen - neurale netværkers opfindelse
++ Embodied AI - Rodney brook, subsumption arkitektur
+  + I starten var det ikke en success, men brooks gjorde det til en success
 + Helge Kragh 1 - definerer hvd videnskab er
   + Offentlig
   + Fejlbarlig

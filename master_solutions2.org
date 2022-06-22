@@ -1,0 +1,139 @@
+-*- ispell-dictionary: "dansk" -*-
+#+title: Master_solutions2
++ Konnektionismen - første generation af neural networks
++ Embodied AI - Rodney brooks måde at bygge robotter på, som brugte dens miljø
++ Helge Kragh 1 - laver definition af videnskab
+  + Offentlig - videnskab, og dens resultater, skal hvertfald ikke være gemt væk
+  + Fejlbarlig - det skal være muligt den er forkert
+  + Korrigerbar - det skal være muligt og korigere
+  + Testbar . teste om videnskaben er sand
++ Helge kragh 2
+  + Forhåndsværende
+  + Foreløbig
+  + Kan kritiseres
+  + Kan forbedres
++ Realvidenskab - videnskab der studerer fænomener derude om vi studerer dem eller ej
++ Formalvidenskab - videnskab af formelle systemer hvor vi har lagt regler
+  + Udsagn kan bevises med absolut sikkerhed
++ Evidens - emperisk grundlag
++ Demarkationsproblemet - ting der ligner videnskab, men som ikke er det
++ Mode 1 videnskab - vidensproduktion på universitet. stat >< universitet
++ Mode 2 videnskab - vidensproduktion kan også ske uden for universitet. Treenighed mellem erhverv, stat og universitet
++ Post akademisk - vidensproduktion uden for universiteterne
++ Den linære model/samlebåndsmodellen - innovationsfase og entrepeneur?
+  + Gundforskning leder naturligt, og tidsligt til teknologiske produkter
++ Stokes kvadrantmodel - Alternativ til den lineære model der blander grundforskning og produktion
+  + Grundvidenskab
+  + Anvendelse
+  + Blanding
+  + Ingen af delene
+  + Formålsdimension - hvorfor producerer viden eller produktion
+  + Temporal dimension - der er ikke nødvendigvis at tingene følger lineært hinanden
+  + Kausal dimension - det er er ikke nødvendigt at det ene stadie leder naturligt til det næste
+  + Epistemologisk dimension - hvad erkender man ved grundvidenskaben, eller hvad erkender man kan bruges ved det teknologiske produkt
++ A priori - viden hvori den fulde mening er i udsagnet selv
++ A posteori - viden hvori meningen ikke er i udsagnet, man skal selv have oplevet det
++ Paradigme - desciplinær matrix
+  + Metafysisk - faste overbevisnger man har i paradigmet
+  + Symbolske generaliseringer - ting der ligner naturlove, men egentlig ikke er der
+  + Værdier - kunne være at man synes gode algoritmer har god asymptotisk køretid
+  + Eksemplarer - lærebøger, opgaver osv der er typiske
++ Transparadigmatiske værdier - værdier der måske er større end selv paradigmet
+  + Hvis paradigmer er perler på en snor, så svarer det til at gøre snoren tykkere
++ Revolution - når der har ophobet sig nok anamolier, så vil man forkaste paradigmet og der opnår inkommensurabilitet
++ Teknologiske systemer - se teknologi som et netværk, hvor ændringer i netværket vil propagere
+  + Naturresourcer
+  + fysiske artefakter
+  + universiteter
+  + organisationer
++ Deskriptiv - sådan som man siger man gøre
++ Normativ - måden man burde gøre
++ Genstandsfelt - computeren er en del af datalogiens genstandsfelt
+  + Objekter inden for et vidensfelt
++ Induktiv slutning - fra partikulære til det generelle
++ Deduktiv slutning - det generelle til det partikulære
++ Regres - uendelig afhængighed uden en fast finit kerne
++ Experimenters regress - hvordan ved man om eksperimentet var en success, hvis man ikke kender svaret på eksperimentet
++ Duhem-Quine-tesen - se det som at teste en helhed af hypoteser
++ Kvalitativ - ikke databaseret
++ Kvantitativ - databaseret
++ Formalistisk software - matematisk syn på software
++ Ingeniør centreret software - Fokuserer på software gennem workflows og ingeniør discipliner
++ Humanistisk software - fokuserer på hvordan folk opfatter software
++ Social-konstruktivisme - ting er hvad vi er enige om
++ Aktiomssystmer - lukket formelt system hvor alt mening er givet gennem dets aksiomer
++ Disciplinær matrix - Måden at instantiere et paradigme
++ inkommensurabilitet - når man forkaster et paradigme er de to paradigmer usammenlignelige
++ Normalvidenskab - vidensproduktion inden for et paradigme
++ Socio-teknisk objekt - teknik påvirker sociale relationer
++ Agens - give objekter selvstændig handling. En algoritme kan opnå agens i og med den påvirker os.
++ Kontrolstruktur - algoritmer er en kontrolstruktur. Kontrolleret række handlinger
++ Mekanisk - kan gøre det uden at tænke. Det kan nærmest følge en kontrolstruktur
++ Matematikfilosofisk - beskrive matematik ved matematik og derved verden gennem matematik og aksiomsystmer
++ Formalisering og aksiomatisering - del af at prøve og vise matematikken er konsistent og for at vise vi kan bevise alt gennem matematik
++ Ideale elementer - kan tilføjes til aksiomssystemet uden at det giver modstrid
++ Hilbert - ville vise at matematikken er konstistent
++ Gödel - vise at hvis matematikken er konsistent, så er den mangelfuld og der vil altid være noget nyt matematikken ikke har indfanget
++ Hartmanis - bruger turing-maskinen som basis for hans beregningsmodel
++ Analytisk udsagn - aprior udsagn. Alle ungkarle er ugifte
++ Syntetisk udsagn - udsagn der ikke er analytiske og dermed er aposteori
++ Syntaktisk udsagn - udsagn i kraft af deres form
++ Semantisk udsagn - udsagn i kraft af deres mening
++ Finitisme - fast del vi tror på
++ Hypotetisk deduktiv - poppers metode
++ Falsificering - måden popper definerer videnskab
++ Finetistisk kerne - fast kerne vi tror på og bryder regress med
++ Matematikken er konsistent
++ Cudos
+  + Communalism - videnskab skal være offentlig
+  + Universality - videnskab skal være universelt gældende og ikke afhænge af videnskabsmænd(m/k)
+  + Disinterestedness - vidensproduktionen skal ikke være præget af egne interesser
+  + Originality - viden skal være ny
++ Place
+  + Proprietary - viden er ejet af erhverv eller universitet
+  + local - den er lokal med fokus på at løse et problem
+  + authoritative - der er nogen over videnskabsfolk
+  + Commisioned - viden er stytet med bestemt formål for at løse praktisk problem
+  + expert - videnskabsfolk er eksperter og gør det for at løse et problem ikke af egen nysgerrighed
++ Lukket system - system hvor vi kan bevise hvad der sker
++ Åbent system - den virkelige verden hvor alle garantier forsvinder
++ Epistemologi - erkendelseslæren. Altså viden omkring hvordan vi opfatter verden,
++ Algorithms in culture - se algoritmer som en del af kultur, hvor vi påvirker den, og den påvirker os
++ Algorithms as culture - algoritmer er uden for kultur og er det vi selv opfatter den til at være
++ Secrecy
++ Fænomenetisk model - modeller om data, såsom ML modeller
++ Teoretisk model - modeller over hvad vi allerede ved burde ske såsom newtons mekanik
++ Metafysisk argument - argument rodfæstet i ens delte overbevisning inden for et paradigmer om hvordan verden fungerer
++ Idealisering - en del af modelleringsprocessen i beregningsmodeller. Se på bedste scenarie, siden det kan gøre modellen bedre, nemmere eller beregnelig
++ Abstraktion - ser bort fra nogle ting for at gøre modellen bedre
++ Pragmatik - laver modellen ud fra hvad der kan lade sig gøre
++ Post normal viden - viden produceret uden for universiteterne
++ Correlation does not imply causationn
++ Ikoniske modeller - modeller der ligner deres domæne
++ Analogi modeller - modeller der ikke ligner domænet, men alligevel kan bruges
++ Matematiske modeller - beregningsmodeller?
++ Dialektisk og iterativ modellering - dialektisk i den forstand af hvad der kan lade sig gøre og iterativ i og med den kan forfines
++ Data som kommunikationsprocess - se på processer mellem mennesker
++ Induktionsproblemet (humes problem) - man kan ikke slute det generelle fra det partikulære. Der er en regress
++ Korrelationsproblemet -  den tror jeg godt vi kender
++ Lucas problemet - modeller påvirker fremtiden
++ Deskriptiv etik - måden vi siger vi handler
++ Naturalistisk fejlslutning - når noget er etisk forkert, men noget der er lovligt
++ Normativ etik - studiet omkring hvordan vi burd handle
++ Nyttetik - Utilitarismen
++ Utilitarisme - handler om at maksimere lykke
++ Juridisk vakuum - etisk forkert, men imidlertid lovligt
++ Samvittighedskvaler - følelsen når man laver naturalistisk fejlslutning
++ Maksime - ingen ide
++ Intrinsisk gode - de er gode i sig selv og gør verden bedre
++ Regelutilitarisme - ser på at maksimere et sæt af regler der gør verden bedre
++ Handlingsutilitarisme - ser på om den enkelte handling i isolation gør verden bedre
++ Pligtetik - deontologi
++ Deontologi - handler om intensionen bag handlingen og retten til at blive behandlet godt
++ Regeletik - deontologi
++ Kategoriske imperativ - måde at teste på om en handling er etisk korrekt(kant)
++ Praktiske imperativ - alternativ til det kategoriske imperativ, men udtrykker det samme
++ Agentneutrale værdier - værdier som er gode for verden
++ Agentrelative værdier - egne livsprojekter og retten til at blive behandlet godt
++ Autonome værdier - egne livsprojekter
++ Deontologiske værdier - retten til at blive behandlet godt

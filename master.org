@@ -1,5 +1,7 @@
 -*- ispell-dictionary: "dansk" -*-
 #+title: Master
++ Konnektionismen
++ Embodied AI
 + Helge Kragh 1
   + Offentlig
   + Fejlbarlig
@@ -44,7 +46,7 @@
 + Deduktiv slutning
 + Regres
 + Experimenters regress
-+ Duhem-Quine-tese
++ Duhem-Quine-tesen
 + Kvalitativ
 + Kvantitativ
 + Formalistisk software
@@ -61,7 +63,6 @@
 + Mekanisk
 + Matematikfilosofisk
 + Formalisering og aksiomatisering
-+ Aksiomsystemer
 + Ideale elementer
 + Hilbert
 + Gödel
@@ -79,8 +80,13 @@
   + Communalism
   + Universality
   + Disinterestedness
-  + Originality
+  + Organized scepticism(originality)
 + Place
+  + Proprietary
+  + Local
+  + authoritarian
+  + Commissioned
+  + Expert
 + Lukket system
 + Åbent system
 + Epistemologi
@@ -92,7 +98,7 @@
 + Metafysisk argument
 + Idealisering
 + Abstraktion
-+ Pragmatik
++ Pragmatisk
 + Post normal viden
 + Correlation does not imply causation
 + Ikoniske modeller
@@ -112,8 +118,8 @@
 + Samvittighedskvaler
 + Maksime
 + Intrinsisk gode
-+ Regelutilitarisme
 + Handlingsutilitarisme
++ Regelutilitarisme
 + Pligtetik
 + Deontologi
 + Regeletik
